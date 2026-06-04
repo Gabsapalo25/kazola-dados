@@ -1,5 +1,1657 @@
 [
     {
+        "id": "6a2141228685c88aa76f30c9",
+        "date": "2026-06-04T09:10:58.495Z",
+        "results": [
+            {
+                "id": "6a2141228685c88aa76f30ca",
+                "dailyId": "6a2141228685c88aa76f30c9",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/yV5fsN3-EA8",
+                "number_1": 55,
+                "number_2": 21,
+                "number_3": 2,
+                "number_4": 54,
+                "number_5": 36,
+                "createdAt": "2026-06-04T09:10:58.799Z"
+            },
+            {
+                "id": "6a216a3869d940811b4675b2",
+                "dailyId": "6a2141228685c88aa76f30c9",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/rY-3ZKGFC7M",
+                "number_1": 68,
+                "number_2": 19,
+                "number_3": 61,
+                "number_4": 45,
+                "number_5": 88,
+                "createdAt": "2026-06-04T12:06:16.589Z"
+            },
+            {
+                "id": "6a21948e24018fd1bd3399bf",
+                "dailyId": "6a2141228685c88aa76f30c9",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/zsd1RpfYsXs",
+                "number_1": 83,
+                "number_2": 63,
+                "number_3": 76,
+                "number_4": 13,
+                "number_5": 59,
+                "createdAt": "2026-06-04T15:06:54.143Z"
+            },
+            {
+                "id": "6a21be968685c88aa76f30ce",
+                "dailyId": "6a2141228685c88aa76f30c9",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/pA47JtoVDFQ",
+                "number_1": 31,
+                "number_2": 52,
+                "number_3": 58,
+                "number_4": 67,
+                "number_5": 72,
+                "createdAt": "2026-06-04T18:06:13.981Z"
+            }
+        ],
+        "formatedDate": "Quinta-feira, 4 de Junho de 2026, 09:10:58"
+    },
+    {
+        "id": "6a1fee6c69d940811b4675af",
+        "date": "2026-06-03T09:05:48.081Z",
+        "results": [
+            {
+                "id": "6a1fee6c69d940811b4675b0",
+                "dailyId": "6a1fee6c69d940811b4675af",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/bD0432J8D40",
+                "number_1": 16,
+                "number_2": 44,
+                "number_3": 89,
+                "number_4": 36,
+                "number_5": 20,
+                "createdAt": "2026-06-03T09:05:48.388Z"
+            },
+            {
+                "id": "6a2018c524018fd1bd3399ba",
+                "dailyId": "6a1fee6c69d940811b4675af",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/kenIB3p8uRU",
+                "number_1": 5,
+                "number_2": 4,
+                "number_3": 39,
+                "number_4": 82,
+                "number_5": 15,
+                "createdAt": "2026-06-03T12:06:29.639Z"
+            },
+            {
+                "id": "6a20435c8685c88aa76f30c6",
+                "dailyId": "6a1fee6c69d940811b4675af",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/Cgxmq5BXYDM",
+                "number_1": 32,
+                "number_2": 65,
+                "number_3": 33,
+                "number_4": 58,
+                "number_5": 36,
+                "createdAt": "2026-06-03T15:08:12.110Z"
+            },
+            {
+                "id": "6a206d0b24018fd1bd3399bd",
+                "dailyId": "6a1fee6c69d940811b4675af",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/HmzpxU27rtc",
+                "number_1": 88,
+                "number_2": 9,
+                "number_3": 23,
+                "number_4": 7,
+                "number_5": 57,
+                "createdAt": "2026-06-03T18:06:02.809Z"
+            }
+        ],
+        "formatedDate": "Quarta-feira, 3 de Junho de 2026, 09:05:48"
+    },
+    {
+        "id": "6a1e9cf78685c88aa76f30c0",
+        "date": "2026-06-02T09:05:58.693Z",
+        "results": [
+            {
+                "id": "6a1e9cf78685c88aa76f30c1",
+                "dailyId": "6a1e9cf78685c88aa76f30c0",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/avIGShq05FU",
+                "number_1": 59,
+                "number_2": 1,
+                "number_3": 80,
+                "number_4": 64,
+                "number_5": 22,
+                "createdAt": "2026-06-02T09:05:58.999Z"
+            },
+            {
+                "id": "6a1ec7b569d940811b4675ad",
+                "dailyId": "6a1e9cf78685c88aa76f30c0",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/8wML0HyJj-k",
+                "number_1": 38,
+                "number_2": 22,
+                "number_3": 54,
+                "number_4": 36,
+                "number_5": 18,
+                "createdAt": "2026-06-02T12:08:21.393Z"
+            },
+            {
+                "id": "6a1ef18eb5fb3c622ec13f1f",
+                "dailyId": "6a1e9cf78685c88aa76f30c0",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/1k7_osZ1UP0",
+                "number_1": 43,
+                "number_2": 44,
+                "number_3": 18,
+                "number_4": 64,
+                "number_5": 90,
+                "createdAt": "2026-06-02T15:06:53.850Z"
+            },
+            {
+                "id": "6a1f1bff8685c88aa76f30c4",
+                "dailyId": "6a1e9cf78685c88aa76f30c0",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/_EDGF3d-qYo",
+                "number_1": 57,
+                "number_2": 78,
+                "number_3": 61,
+                "number_4": 9,
+                "number_5": 5,
+                "createdAt": "2026-06-02T18:07:58.871Z"
+            }
+        ],
+        "formatedDate": "Ter\u00e7a-feira, 2 de Junho de 2026, 09:05:58"
+    },
+    {
+        "id": "6a1d4b7459763e0c1df239b2",
+        "date": "2026-06-01T09:05:55.956Z",
+        "results": [
+            {
+                "id": "6a1d4b7459763e0c1df239b3",
+                "dailyId": "6a1d4b7459763e0c1df239b2",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/KViRnOSk-Xc",
+                "number_1": 89,
+                "number_2": 68,
+                "number_3": 33,
+                "number_4": 29,
+                "number_5": 28,
+                "createdAt": "2026-06-01T09:05:56.255Z"
+            },
+            {
+                "id": "6a1d75c159763e0c1df239b5",
+                "dailyId": "6a1d4b7459763e0c1df239b2",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/o7Db855fCP0",
+                "number_1": 53,
+                "number_2": 13,
+                "number_3": 22,
+                "number_4": 62,
+                "number_5": 84,
+                "createdAt": "2026-06-01T12:06:25.331Z"
+            },
+            {
+                "id": "6a1da02486ad2993bd8021c3",
+                "dailyId": "6a1d4b7459763e0c1df239b2",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/wwi3NwPhI8w",
+                "number_1": 81,
+                "number_2": 23,
+                "number_3": 7,
+                "number_4": 83,
+                "number_5": 54,
+                "createdAt": "2026-06-01T15:07:16.653Z"
+            },
+            {
+                "id": "6a1dcaae86ad2993bd8021c5",
+                "dailyId": "6a1d4b7459763e0c1df239b2",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/n160DL2gGgs",
+                "number_1": 25,
+                "number_2": 71,
+                "number_3": 78,
+                "number_4": 72,
+                "number_5": 39,
+                "createdAt": "2026-06-01T18:08:46.063Z"
+            }
+        ],
+        "formatedDate": "Segunda-feira, 1 de Junho de 2026, 09:05:55"
+    },
+    {
+        "id": "6a1bfabfb48bf1c4694b1a0e",
+        "date": "2026-05-31T09:09:19.268Z",
+        "results": [
+            {
+                "id": "6a1bfabfb48bf1c4694b1a0f",
+                "dailyId": "6a1bfabfb48bf1c4694b1a0e",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/X8b7fjk9lNc",
+                "number_1": 61,
+                "number_2": 47,
+                "number_3": 13,
+                "number_4": 70,
+                "number_5": 35,
+                "createdAt": "2026-05-31T09:09:19.567Z"
+            },
+            {
+                "id": "6a1c246459763e0c1df239b0",
+                "dailyId": "6a1bfabfb48bf1c4694b1a0e",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/8QPt96MkToo",
+                "number_1": 16,
+                "number_2": 19,
+                "number_3": 41,
+                "number_4": 61,
+                "number_5": 72,
+                "createdAt": "2026-05-31T12:06:59.966Z"
+            },
+            {
+                "id": "6a1c4e7f86ad2993bd8021be",
+                "dailyId": "6a1bfabfb48bf1c4694b1a0e",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/5rQc6JIC0X0",
+                "number_1": 26,
+                "number_2": 71,
+                "number_3": 55,
+                "number_4": 5,
+                "number_5": 4,
+                "createdAt": "2026-05-31T15:06:39.282Z"
+            },
+            {
+                "id": "6a1c78d3b48bf1c4694b1a12",
+                "dailyId": "6a1bfabfb48bf1c4694b1a0e",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/amtaOoaLy9Q",
+                "number_1": 87,
+                "number_2": 16,
+                "number_3": 28,
+                "number_4": 14,
+                "number_5": 60,
+                "createdAt": "2026-05-31T18:07:15.353Z"
+            }
+        ],
+        "formatedDate": "Domingo, 31 de Maio de 2026, 09:09:19"
+    },
+    {
+        "id": "6a1aa910d5c403734b1be5bd",
+        "date": "2026-05-30T09:08:31.751Z",
+        "results": [
+            {
+                "id": "6a1aa910d5c403734b1be5be",
+                "dailyId": "6a1aa910d5c403734b1be5bd",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/nWItK0OeBww",
+                "number_1": 75,
+                "number_2": 53,
+                "number_3": 90,
+                "number_4": 27,
+                "number_5": 63,
+                "createdAt": "2026-05-30T09:08:32.049Z"
+            },
+            {
+                "id": "6a1ad2c7d5c403734b1be5c0",
+                "dailyId": "6a1aa910d5c403734b1be5bd",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/d-1xENlOR-4",
+                "number_1": 82,
+                "number_2": 21,
+                "number_3": 69,
+                "number_4": 75,
+                "number_5": 51,
+                "createdAt": "2026-05-30T12:06:31.067Z"
+            },
+            {
+                "id": "6a1afce986ad2993bd8021bb",
+                "dailyId": "6a1aa910d5c403734b1be5bd",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/T3ekzwqk0OA",
+                "number_1": 61,
+                "number_2": 41,
+                "number_3": 44,
+                "number_4": 30,
+                "number_5": 89,
+                "createdAt": "2026-05-30T15:06:16.779Z"
+            },
+            {
+                "id": "6a1b281559763e0c1df239ad",
+                "dailyId": "6a1aa910d5c403734b1be5bd",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/-9oPwcXj5fQ",
+                "number_1": 33,
+                "number_2": 78,
+                "number_3": 20,
+                "number_4": 77,
+                "number_5": 74,
+                "createdAt": "2026-05-30T18:10:29.037Z"
+            }
+        ],
+        "formatedDate": "S\u00e1bado, 30 de Maio de 2026, 09:08:31"
+    },
+    {
+        "id": "6a1956f0b48bf1c4694b1a04",
+        "date": "2026-05-29T09:05:52.396Z",
+        "results": [
+            {
+                "id": "6a1956f0b48bf1c4694b1a05",
+                "dailyId": "6a1956f0b48bf1c4694b1a04",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/31p_ybiATzA",
+                "number_1": 52,
+                "number_2": 8,
+                "number_3": 85,
+                "number_4": 37,
+                "number_5": 51,
+                "createdAt": "2026-05-29T09:05:52.695Z"
+            },
+            {
+                "id": "6a198176b48bf1c4694b1a08",
+                "dailyId": "6a1956f0b48bf1c4694b1a04",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/iaXgRg24PLk",
+                "number_1": 14,
+                "number_2": 57,
+                "number_3": 28,
+                "number_4": 30,
+                "number_5": 71,
+                "createdAt": "2026-05-29T12:07:17.737Z"
+            },
+            {
+                "id": "6a19ab3db48bf1c4694b1a0a",
+                "dailyId": "6a1956f0b48bf1c4694b1a04",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/0rK0NrBC1mw",
+                "number_1": 55,
+                "number_2": 44,
+                "number_3": 76,
+                "number_4": 21,
+                "number_5": 70,
+                "createdAt": "2026-05-29T15:05:32.832Z"
+            },
+            {
+                "id": "6a19d556b48bf1c4694b1a0c",
+                "dailyId": "6a1956f0b48bf1c4694b1a04",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/0QSHH0Qtuoo",
+                "number_1": 83,
+                "number_2": 63,
+                "number_3": 27,
+                "number_4": 60,
+                "number_5": 65,
+                "createdAt": "2026-05-29T18:05:10.535Z"
+            }
+        ],
+        "formatedDate": "Sexta-feira, 29 de Maio de 2026, 09:05:52"
+    },
+    {
+        "id": "6a18067386ad2993bd8021b5",
+        "date": "2026-05-28T09:10:11.085Z",
+        "results": [
+            {
+                "id": "6a18067386ad2993bd8021b6",
+                "dailyId": "6a18067386ad2993bd8021b5",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/anzDeEADAF4",
+                "number_1": 24,
+                "number_2": 59,
+                "number_3": 12,
+                "number_4": 23,
+                "number_5": 61,
+                "createdAt": "2026-05-28T09:10:11.391Z"
+            },
+            {
+                "id": "6a182fca59763e0c1df239a4",
+                "dailyId": "6a18067386ad2993bd8021b5",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/-E6Ky0Nlcec",
+                "number_1": 30,
+                "number_2": 41,
+                "number_3": 66,
+                "number_4": 87,
+                "number_5": 5,
+                "createdAt": "2026-05-28T12:06:34.581Z"
+            },
+            {
+                "id": "6a185a0a59763e0c1df239a7",
+                "dailyId": "6a18067386ad2993bd8021b5",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/CFcelD8D_xc",
+                "number_1": 30,
+                "number_2": 80,
+                "number_3": 22,
+                "number_4": 88,
+                "number_5": 37,
+                "createdAt": "2026-05-28T15:06:50.194Z"
+            },
+            {
+                "id": "6a1883fed5c403734b1be5bb",
+                "dailyId": "6a18067386ad2993bd8021b5",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/c6T_gXjnPCE",
+                "number_1": 34,
+                "number_2": 11,
+                "number_3": 38,
+                "number_4": 43,
+                "number_5": 79,
+                "createdAt": "2026-05-28T18:05:50.281Z"
+            }
+        ],
+        "formatedDate": "Quinta-feira, 28 de Maio de 2026, 09:10:11"
+    },
+    {
+        "id": "6a16b442b48bf1c4694b19fe",
+        "date": "2026-05-27T09:07:13.915Z",
+        "results": [
+            {
+                "id": "6a16b442b48bf1c4694b19ff",
+                "dailyId": "6a16b442b48bf1c4694b19fe",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/NXuP5bLY02c",
+                "number_1": 40,
+                "number_2": 36,
+                "number_3": 39,
+                "number_4": 48,
+                "number_5": 90,
+                "createdAt": "2026-05-27T09:07:14.221Z"
+            },
+            {
+                "id": "6a16de3286ad2993bd8021b2",
+                "dailyId": "6a16b442b48bf1c4694b19fe",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/xinVhOEGU_0",
+                "number_1": 24,
+                "number_2": 50,
+                "number_3": 90,
+                "number_4": 26,
+                "number_5": 79,
+                "createdAt": "2026-05-27T12:06:10.283Z"
+            },
+            {
+                "id": "6a170895b48bf1c4694b1a01",
+                "dailyId": "6a16b442b48bf1c4694b19fe",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/-ph3K7bRdkc",
+                "number_1": 79,
+                "number_2": 42,
+                "number_3": 28,
+                "number_4": 80,
+                "number_5": 33,
+                "createdAt": "2026-05-27T15:07:01.507Z"
+            },
+            {
+                "id": "6a17329959763e0c1df239a2",
+                "dailyId": "6a16b442b48bf1c4694b19fe",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/2gmFUc5ETjI",
+                "number_1": 58,
+                "number_2": 49,
+                "number_3": 63,
+                "number_4": 64,
+                "number_5": 6,
+                "createdAt": "2026-05-27T18:06:17.530Z"
+            }
+        ],
+        "formatedDate": "Quarta-feira, 27 de Maio de 2026, 09:07:13"
+    },
+    {
+        "id": "6a1562a586ad2993bd8021ac",
+        "date": "2026-05-26T09:06:44.908Z",
+        "results": [
+            {
+                "id": "6a1562a586ad2993bd8021ad",
+                "dailyId": "6a1562a586ad2993bd8021ac",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/2WgW_ysjTkY",
+                "number_1": 16,
+                "number_2": 39,
+                "number_3": 64,
+                "number_4": 22,
+                "number_5": 17,
+                "createdAt": "2026-05-26T09:06:45.215Z"
+            },
+            {
+                "id": "6a158c7b59763e0c1df2399c",
+                "dailyId": "6a1562a586ad2993bd8021ac",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/t-t8xIbyuUA",
+                "number_1": 90,
+                "number_2": 12,
+                "number_3": 59,
+                "number_4": 23,
+                "number_5": 28,
+                "createdAt": "2026-05-26T12:05:14.846Z"
+            },
+            {
+                "id": "6a15b71a86ad2993bd8021b0",
+                "dailyId": "6a1562a586ad2993bd8021ac",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/uiIa84ffz_g",
+                "number_1": 42,
+                "number_2": 32,
+                "number_3": 10,
+                "number_4": 87,
+                "number_5": 56,
+                "createdAt": "2026-05-26T15:07:05.954Z"
+            },
+            {
+                "id": "6a15e0ceb48bf1c4694b19fb",
+                "dailyId": "6a1562a586ad2993bd8021ac",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/3dEfRIIg5DI",
+                "number_1": 61,
+                "number_2": 66,
+                "number_3": 73,
+                "number_4": 50,
+                "number_5": 63,
+                "createdAt": "2026-05-26T18:05:02.673Z"
+            }
+        ],
+        "formatedDate": "Ter\u00e7a-feira, 26 de Maio de 2026, 09:06:44"
+    },
+    {
+        "id": "6a141185d5c403734b1be5b2",
+        "date": "2026-05-25T09:08:21.007Z",
+        "results": [
+            {
+                "id": "6a141185d5c403734b1be5b3",
+                "dailyId": "6a141185d5c403734b1be5b2",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/4RVHRYIEsuI",
+                "number_1": 9,
+                "number_2": 51,
+                "number_3": 28,
+                "number_4": 5,
+                "number_5": 62,
+                "createdAt": "2026-05-25T09:08:21.308Z"
+            },
+            {
+                "id": "6a143b5f59763e0c1df2399a",
+                "dailyId": "6a141185d5c403734b1be5b2",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/EJeL-oHJKNA",
+                "number_1": 29,
+                "number_2": 58,
+                "number_3": 32,
+                "number_4": 23,
+                "number_5": 44,
+                "createdAt": "2026-05-25T12:06:55.656Z"
+            },
+            {
+                "id": "6a1465e986ad2993bd8021aa",
+                "dailyId": "6a141185d5c403734b1be5b2",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/npZ_eM7KHdo",
+                "number_1": 34,
+                "number_2": 6,
+                "number_3": 60,
+                "number_4": 22,
+                "number_5": 51,
+                "createdAt": "2026-05-25T15:08:25.174Z"
+            },
+            {
+                "id": "6a149036d5c403734b1be5b7",
+                "dailyId": "6a141185d5c403734b1be5b2",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/NdjNIFsHKuM",
+                "number_1": 18,
+                "number_2": 4,
+                "number_3": 22,
+                "number_4": 21,
+                "number_5": 26,
+                "createdAt": "2026-05-25T18:08:54.050Z"
+            }
+        ],
+        "formatedDate": "Segunda-feira, 25 de Maio de 2026, 09:08:21"
+    },
+    {
+        "id": "6a12c0c4b48bf1c4694b19f3",
+        "date": "2026-05-24T09:11:32.401Z",
+        "results": [
+            {
+                "id": "6a12c0c4b48bf1c4694b19f4",
+                "dailyId": "6a12c0c4b48bf1c4694b19f3",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/Dw4gJMZpVh0",
+                "number_1": 78,
+                "number_2": 36,
+                "number_3": 40,
+                "number_4": 12,
+                "number_5": 16,
+                "createdAt": "2026-05-24T09:11:32.705Z"
+            },
+            {
+                "id": "6a12ea3886ad2993bd8021a7",
+                "dailyId": "6a12c0c4b48bf1c4694b19f3",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/Ul_1NBq2bxw",
+                "number_1": 17,
+                "number_2": 80,
+                "number_3": 67,
+                "number_4": 40,
+                "number_5": 7,
+                "createdAt": "2026-05-24T12:08:23.772Z"
+            },
+            {
+                "id": "6a131401b48bf1c4694b19f6",
+                "dailyId": "6a12c0c4b48bf1c4694b19f3",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/yI5tCvvTNh0",
+                "number_1": 66,
+                "number_2": 4,
+                "number_3": 85,
+                "number_4": 64,
+                "number_5": 82,
+                "createdAt": "2026-05-24T15:06:40.733Z"
+            },
+            {
+                "id": "6a133e48d5c403734b1be5b0",
+                "dailyId": "6a12c0c4b48bf1c4694b19f3",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/aTB_qnQaUW8",
+                "number_1": 86,
+                "number_2": 16,
+                "number_3": 29,
+                "number_4": 41,
+                "number_5": 66,
+                "createdAt": "2026-05-24T18:07:03.769Z"
+            }
+        ],
+        "formatedDate": "Domingo, 24 de Maio de 2026, 09:11:32"
+    },
+    {
+        "id": "6a116ee2d5c403734b1be5aa",
+        "date": "2026-05-23T09:09:53.753Z",
+        "results": [
+            {
+                "id": "6a116ee2d5c403734b1be5ab",
+                "dailyId": "6a116ee2d5c403734b1be5aa",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/eKVRbl-TG5U",
+                "number_1": 32,
+                "number_2": 24,
+                "number_3": 42,
+                "number_4": 65,
+                "number_5": 20,
+                "createdAt": "2026-05-23T09:09:54.050Z"
+            },
+            {
+                "id": "6a11985486ad2993bd8021a2",
+                "dailyId": "6a116ee2d5c403734b1be5aa",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/9OdUk626udQ",
+                "number_1": 26,
+                "number_2": 72,
+                "number_3": 69,
+                "number_4": 30,
+                "number_5": 90,
+                "createdAt": "2026-05-23T12:06:44.056Z"
+            },
+            {
+                "id": "6a11c26e86ad2993bd8021a4",
+                "dailyId": "6a116ee2d5c403734b1be5aa",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/jrPP12e0H1o",
+                "number_1": 55,
+                "number_2": 64,
+                "number_3": 78,
+                "number_4": 32,
+                "number_5": 71,
+                "createdAt": "2026-05-23T15:06:22.549Z"
+            },
+            {
+                "id": "6a11ec6cd5c403734b1be5ad",
+                "dailyId": "6a116ee2d5c403734b1be5aa",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/gW3Gvnpf2Ms",
+                "number_1": 21,
+                "number_2": 29,
+                "number_3": 72,
+                "number_4": 23,
+                "number_5": 64,
+                "createdAt": "2026-05-23T18:05:31.948Z"
+            }
+        ],
+        "formatedDate": "S\u00e1bado, 23 de Maio de 2026, 09:09:53"
+    },
+    {
+        "id": "6a101c76b48bf1c4694b19ed",
+        "date": "2026-05-22T09:05:58.283Z",
+        "results": [
+            {
+                "id": "6a101c76b48bf1c4694b19ee",
+                "dailyId": "6a101c76b48bf1c4694b19ed",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/HaPw4sVPBF0",
+                "number_1": 12,
+                "number_2": 51,
+                "number_3": 10,
+                "number_4": 20,
+                "number_5": 89,
+                "createdAt": "2026-05-22T09:05:58.585Z"
+            },
+            {
+                "id": "6a1046be59763e0c1df23996",
+                "dailyId": "6a101c76b48bf1c4694b19ed",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/XhVQvoeVq74",
+                "number_1": 12,
+                "number_2": 55,
+                "number_3": 70,
+                "number_4": 32,
+                "number_5": 75,
+                "createdAt": "2026-05-22T12:06:21.976Z"
+            },
+            {
+                "id": "6a1070f086ad2993bd80219d",
+                "dailyId": "6a101c76b48bf1c4694b19ed",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/qvmLEmYmXl0",
+                "number_1": 54,
+                "number_2": 89,
+                "number_3": 56,
+                "number_4": 37,
+                "number_5": 4,
+                "createdAt": "2026-05-22T15:06:24.039Z"
+            },
+            {
+                "id": "6a109b81b48bf1c4694b19f0",
+                "dailyId": "6a101c76b48bf1c4694b19ed",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/TV8Zeozi7-Q",
+                "number_1": 37,
+                "number_2": 28,
+                "number_3": 63,
+                "number_4": 39,
+                "number_5": 47,
+                "createdAt": "2026-05-22T18:08:01.307Z"
+            }
+        ],
+        "formatedDate": "Sexta-feira, 22 de Maio de 2026, 09:05:58"
+    },
+    {
+        "id": "6a0ecbc3b48bf1c4694b19e7",
+        "date": "2026-05-21T09:09:23.162Z",
+        "results": [
+            {
+                "id": "6a0ecbc3b48bf1c4694b19e8",
+                "dailyId": "6a0ecbc3b48bf1c4694b19e7",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/2sGyK_GebuA",
+                "number_1": 30,
+                "number_2": 19,
+                "number_3": 88,
+                "number_4": 62,
+                "number_5": 58,
+                "createdAt": "2026-05-21T09:09:23.468Z"
+            },
+            {
+                "id": "6a0ef694b48bf1c4694b19eb",
+                "dailyId": "6a0ecbc3b48bf1c4694b19e7",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/2oNdTbT4vBI",
+                "number_1": 59,
+                "number_2": 6,
+                "number_3": 17,
+                "number_4": 56,
+                "number_5": 76,
+                "createdAt": "2026-05-21T12:12:04.154Z"
+            },
+            {
+                "id": "6a0f200459763e0c1df23994",
+                "dailyId": "6a0ecbc3b48bf1c4694b19e7",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/mRxGjwSbK08",
+                "number_1": 7,
+                "number_2": 28,
+                "number_3": 33,
+                "number_4": 60,
+                "number_5": 56,
+                "createdAt": "2026-05-21T15:08:52.114Z"
+            },
+            {
+                "id": "6a0f49cfd5c403734b1be5a8",
+                "dailyId": "6a0ecbc3b48bf1c4694b19e7",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/Nu4h6Ue0FjU",
+                "number_1": 3,
+                "number_2": 46,
+                "number_3": 41,
+                "number_4": 55,
+                "number_5": 67,
+                "createdAt": "2026-05-21T18:07:10.812Z"
+            }
+        ],
+        "formatedDate": "Quinta-feira, 21 de Maio de 2026, 09:09:23"
+    },
+    {
+        "id": "6a0d799e12e25108eb07b3ba",
+        "date": "2026-05-20T09:06:38.119Z",
+        "results": [
+            {
+                "id": "6a0d799e12e25108eb07b3bb",
+                "dailyId": "6a0d799e12e25108eb07b3ba",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/I6_Qt9L1Xgs",
+                "number_1": 14,
+                "number_2": 54,
+                "number_3": 60,
+                "number_4": 86,
+                "number_5": 46,
+                "createdAt": "2026-05-20T09:06:38.415Z"
+            },
+            {
+                "id": "6a0da3fb59763e0c1df23992",
+                "dailyId": "6a0d799e12e25108eb07b3ba",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/eQtDAAol_Es",
+                "number_1": 47,
+                "number_2": 72,
+                "number_3": 88,
+                "number_4": 48,
+                "number_5": 25,
+                "createdAt": "2026-05-20T12:07:23.532Z"
+            },
+            {
+                "id": "6a0dcde3b48bf1c4694b19e5",
+                "dailyId": "6a0d799e12e25108eb07b3ba",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/j67UFOiFMj4",
+                "number_1": 3,
+                "number_2": 18,
+                "number_3": 10,
+                "number_4": 1,
+                "number_5": 63,
+                "createdAt": "2026-05-20T15:06:10.788Z"
+            },
+            {
+                "id": "6a0df81fd5c403734b1be5a6",
+                "dailyId": "6a0d799e12e25108eb07b3ba",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/gQEFV55sZEg",
+                "number_1": 69,
+                "number_2": 30,
+                "number_3": 33,
+                "number_4": 85,
+                "number_5": 57,
+                "createdAt": "2026-05-20T18:06:23.323Z"
+            }
+        ],
+        "formatedDate": "Quarta-feira, 20 de Maio de 2026, 09:06:38"
+    },
+    {
+        "id": "6a0c290b458af103beb2adcf",
+        "date": "2026-05-19T09:10:35.620Z",
+        "results": [
+            {
+                "id": "6a0c290c458af103beb2add0",
+                "dailyId": "6a0c290b458af103beb2adcf",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/skvDRuDwQOU",
+                "number_1": 8,
+                "number_2": 5,
+                "number_3": 85,
+                "number_4": 90,
+                "number_5": 76,
+                "createdAt": "2026-05-19T09:10:35.927Z"
+            },
+            {
+                "id": "6a0c524312e25108eb07b3b7",
+                "dailyId": "6a0c290b458af103beb2adcf",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/xr9kS1goGjA",
+                "number_1": 56,
+                "number_2": 73,
+                "number_3": 77,
+                "number_4": 60,
+                "number_5": 69,
+                "createdAt": "2026-05-19T12:06:27.119Z"
+            },
+            {
+                "id": "6a0c7ccf0f986454f7f3b110",
+                "dailyId": "6a0c290b458af103beb2adcf",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/ta64YCo5sdo",
+                "number_1": 3,
+                "number_2": 43,
+                "number_3": 22,
+                "number_4": 4,
+                "number_5": 65,
+                "createdAt": "2026-05-19T15:07:58.769Z"
+            },
+            {
+                "id": "6a0ca6aba8657c21ca3c0536",
+                "dailyId": "6a0c290b458af103beb2adcf",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/pasKsp3_bJQ",
+                "number_1": 12,
+                "number_2": 7,
+                "number_3": 38,
+                "number_4": 1,
+                "number_5": 33,
+                "createdAt": "2026-05-19T18:06:35.466Z"
+            }
+        ],
+        "formatedDate": "Ter\u00e7a-feira, 19 de Maio de 2026, 09:10:35"
+    },
+    {
+        "id": "6a0ad6c4458af103beb2adc9",
+        "date": "2026-05-18T09:07:16.173Z",
+        "results": [
+            {
+                "id": "6a0ad6c4458af103beb2adca",
+                "dailyId": "6a0ad6c4458af103beb2adc9",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/QP5t3slmQVo",
+                "number_1": 16,
+                "number_2": 81,
+                "number_3": 15,
+                "number_4": 90,
+                "number_5": 87,
+                "createdAt": "2026-05-18T09:07:16.470Z"
+            },
+            {
+                "id": "6a0b00f712e25108eb07b3b4",
+                "dailyId": "6a0ad6c4458af103beb2adc9",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/gtcolv4uljs",
+                "number_1": 3,
+                "number_2": 57,
+                "number_3": 86,
+                "number_4": 59,
+                "number_5": 35,
+                "createdAt": "2026-05-18T12:07:19.575Z"
+            },
+            {
+                "id": "6a0b2b01458af103beb2adcd",
+                "dailyId": "6a0ad6c4458af103beb2adc9",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/2ET4UDH7xbo",
+                "number_1": 44,
+                "number_2": 40,
+                "number_3": 85,
+                "number_4": 90,
+                "number_5": 49,
+                "createdAt": "2026-05-18T15:06:41.177Z"
+            },
+            {
+                "id": "6a0b54cb0f986454f7f3b10c",
+                "dailyId": "6a0ad6c4458af103beb2adc9",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/MaDH5paJoHs",
+                "number_1": 16,
+                "number_2": 86,
+                "number_3": 74,
+                "number_4": 12,
+                "number_5": 45,
+                "createdAt": "2026-05-18T18:04:58.941Z"
+            }
+        ],
+        "formatedDate": "Segunda-feira, 18 de Maio de 2026, 09:07:16"
+    },
+    {
+        "id": "6a0985710f986454f7f3b102",
+        "date": "2026-05-17T09:08:01.558Z",
+        "results": [
+            {
+                "id": "6a0985720f986454f7f3b103",
+                "dailyId": "6a0985710f986454f7f3b102",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/Mq7nT33nbYg",
+                "number_1": 61,
+                "number_2": 12,
+                "number_3": 22,
+                "number_4": 39,
+                "number_5": 42,
+                "createdAt": "2026-05-17T09:08:01.851Z"
+            },
+            {
+                "id": "6a09af820f986454f7f3b105",
+                "dailyId": "6a0985710f986454f7f3b102",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/MGSJukSLuGI",
+                "number_1": 4,
+                "number_2": 73,
+                "number_3": 50,
+                "number_4": 54,
+                "number_5": 34,
+                "createdAt": "2026-05-17T12:07:29.744Z"
+            },
+            {
+                "id": "6a09d9840f986454f7f3b107",
+                "dailyId": "6a0985710f986454f7f3b102",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/aVItSV7DJPw",
+                "number_1": 33,
+                "number_2": 85,
+                "number_3": 45,
+                "number_4": 10,
+                "number_5": 69,
+                "createdAt": "2026-05-17T15:06:44.559Z"
+            },
+            {
+                "id": "6a0a040d0f986454f7f3b10a",
+                "dailyId": "6a0985710f986454f7f3b102",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/MWYf94VPYHc",
+                "number_1": 19,
+                "number_2": 48,
+                "number_3": 61,
+                "number_4": 60,
+                "number_5": 43,
+                "createdAt": "2026-05-17T18:08:13.538Z"
+            }
+        ],
+        "formatedDate": "Domingo, 17 de Maio de 2026, 09:08:01"
+    },
+    {
+        "id": "6a08346a12e25108eb07b3ad",
+        "date": "2026-05-16T09:10:01.903Z",
+        "results": [
+            {
+                "id": "6a08346a12e25108eb07b3ae",
+                "dailyId": "6a08346a12e25108eb07b3ad",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/Rc7ks6ZhVsk",
+                "number_1": 72,
+                "number_2": 17,
+                "number_3": 59,
+                "number_4": 11,
+                "number_5": 56,
+                "createdAt": "2026-05-16T09:10:02.200Z"
+            },
+            {
+                "id": "6a085df2a8657c21ca3c052e",
+                "dailyId": "6a08346a12e25108eb07b3ad",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/oe0XAVbugqM",
+                "number_1": 44,
+                "number_2": 1,
+                "number_3": 13,
+                "number_4": 8,
+                "number_5": 38,
+                "createdAt": "2026-05-16T12:07:14.680Z"
+            },
+            {
+                "id": "6a0887f1a8657c21ca3c0530",
+                "dailyId": "6a08346a12e25108eb07b3ad",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/q7ncr2daPus",
+                "number_1": 66,
+                "number_2": 45,
+                "number_3": 4,
+                "number_4": 34,
+                "number_5": 38,
+                "createdAt": "2026-05-16T15:06:25.397Z"
+            },
+            {
+                "id": "6a08b1b80f986454f7f3b100",
+                "dailyId": "6a08346a12e25108eb07b3ad",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/ifKKcy90pw4",
+                "number_1": 30,
+                "number_2": 47,
+                "number_3": 17,
+                "number_4": 60,
+                "number_5": 67,
+                "createdAt": "2026-05-16T18:04:40.253Z"
+            }
+        ],
+        "formatedDate": "S\u00e1bado, 16 de Maio de 2026, 09:10:01"
+    },
+    {
+        "id": "6a06e293a8657c21ca3c0528",
+        "date": "2026-05-15T09:08:35.480Z",
+        "results": [
+            {
+                "id": "6a06e293a8657c21ca3c0529",
+                "dailyId": "6a06e293a8657c21ca3c0528",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/UhbULcw0VfE",
+                "number_1": 53,
+                "number_2": 47,
+                "number_3": 71,
+                "number_4": 26,
+                "number_5": 17,
+                "createdAt": "2026-05-15T09:08:35.793Z"
+            },
+            {
+                "id": "6a070cf5458af103beb2adc6",
+                "dailyId": "6a06e293a8657c21ca3c0528",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/OtSzEPzqjF4",
+                "number_1": 27,
+                "number_2": 5,
+                "number_3": 41,
+                "number_4": 20,
+                "number_5": 62,
+                "createdAt": "2026-05-15T12:09:25.309Z"
+            },
+            {
+                "id": "6a0736c512e25108eb07b3a9",
+                "dailyId": "6a06e293a8657c21ca3c0528",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/GyRu0pwd594",
+                "number_1": 65,
+                "number_2": 70,
+                "number_3": 43,
+                "number_4": 33,
+                "number_5": 47,
+                "createdAt": "2026-05-15T15:07:49.534Z"
+            },
+            {
+                "id": "6a0760e212e25108eb07b3ab",
+                "dailyId": "6a06e293a8657c21ca3c0528",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/RDu5k76Gz0Y",
+                "number_1": 63,
+                "number_2": 87,
+                "number_3": 32,
+                "number_4": 71,
+                "number_5": 34,
+                "createdAt": "2026-05-15T18:07:30.281Z"
+            }
+        ],
+        "formatedDate": "Sexta-feira, 15 de Maio de 2026, 09:08:35"
+    },
+    {
+        "id": "6a0590c5a8657c21ca3c0522",
+        "date": "2026-05-14T09:07:16.930Z",
+        "results": [
+            {
+                "id": "6a0590c5a8657c21ca3c0523",
+                "dailyId": "6a0590c5a8657c21ca3c0522",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/QzW-ugoPz6o",
+                "number_1": 66,
+                "number_2": 12,
+                "number_3": 48,
+                "number_4": 52,
+                "number_5": 2,
+                "createdAt": "2026-05-14T09:07:17.231Z"
+            },
+            {
+                "id": "6a05bae60f986454f7f3b0fd",
+                "dailyId": "6a0590c5a8657c21ca3c0522",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/_VjPQVnbc0o",
+                "number_1": 89,
+                "number_2": 45,
+                "number_3": 38,
+                "number_4": 80,
+                "number_5": 46,
+                "createdAt": "2026-05-14T12:07:01.922Z"
+            },
+            {
+                "id": "6a05e4c7a8657c21ca3c0525",
+                "dailyId": "6a0590c5a8657c21ca3c0522",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/mN-Ngh6TOmc",
+                "number_1": 50,
+                "number_2": 49,
+                "number_3": 81,
+                "number_4": 57,
+                "number_5": 46,
+                "createdAt": "2026-05-14T15:05:42.773Z"
+            },
+            {
+                "id": "6a060f5512e25108eb07b3a6",
+                "dailyId": "6a0590c5a8657c21ca3c0522",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/q1xe39TBoxA",
+                "number_1": 30,
+                "number_2": 5,
+                "number_3": 84,
+                "number_4": 42,
+                "number_5": 35,
+                "createdAt": "2026-05-14T18:07:16.898Z"
+            }
+        ],
+        "formatedDate": "Quinta-feira, 14 de Maio de 2026, 09:07:16"
+    },
+    {
+        "id": "6a0440050f986454f7f3b0fa",
+        "date": "2026-05-13T09:10:29.522Z",
+        "results": [
+            {
+                "id": "6a0440050f986454f7f3b0fb",
+                "dailyId": "6a0440050f986454f7f3b0fa",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/xQEZO1JlTfA",
+                "number_1": 18,
+                "number_2": 70,
+                "number_3": 27,
+                "number_4": 79,
+                "number_5": 21,
+                "createdAt": "2026-05-13T09:10:29.821Z"
+            },
+            {
+                "id": "6a0469a5458af103beb2adc0",
+                "dailyId": "6a0440050f986454f7f3b0fa",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/rm4QGL9PPXk",
+                "number_1": 44,
+                "number_2": 24,
+                "number_3": 89,
+                "number_4": 86,
+                "number_5": 62,
+                "createdAt": "2026-05-13T12:08:05.640Z"
+            },
+            {
+                "id": "6a0493d612e25108eb07b3a3",
+                "dailyId": "6a0440050f986454f7f3b0fa",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/Rk5xiT1uSNo",
+                "number_1": 27,
+                "number_2": 10,
+                "number_3": 89,
+                "number_4": 21,
+                "number_5": 22,
+                "createdAt": "2026-05-13T15:08:05.995Z"
+            },
+            {
+                "id": "6a04bdcea8657c21ca3c0520",
+                "dailyId": "6a0440050f986454f7f3b0fa",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/a-ELFbBcITk",
+                "number_1": 25,
+                "number_2": 90,
+                "number_3": 9,
+                "number_4": 29,
+                "number_5": 50,
+                "createdAt": "2026-05-13T18:07:10.214Z"
+            }
+        ],
+        "formatedDate": "Quarta-feira, 13 de Maio de 2026, 09:10:29"
+    },
+    {
+        "id": "6a02ed9a0f986454f7f3b0f4",
+        "date": "2026-05-12T09:06:34.158Z",
+        "results": [
+            {
+                "id": "6a02ed9a0f986454f7f3b0f5",
+                "dailyId": "6a02ed9a0f986454f7f3b0f4",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/u5YmpwKYaJE",
+                "number_1": 78,
+                "number_2": 22,
+                "number_3": 28,
+                "number_4": 73,
+                "number_5": 10,
+                "createdAt": "2026-05-12T09:06:34.459Z"
+            },
+            {
+                "id": "6a0317ad0f986454f7f3b0f8",
+                "dailyId": "6a02ed9a0f986454f7f3b0f4",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/NdZWp9O3fYU",
+                "number_1": 88,
+                "number_2": 82,
+                "number_3": 90,
+                "number_4": 53,
+                "number_5": 87,
+                "createdAt": "2026-05-12T12:06:04.739Z"
+            },
+            {
+                "id": "6a0342ea12e25108eb07b39d",
+                "dailyId": "6a02ed9a0f986454f7f3b0f4",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/1hhTqpi_jMo",
+                "number_1": 9,
+                "number_2": 32,
+                "number_3": 23,
+                "number_4": 56,
+                "number_5": 29,
+                "createdAt": "2026-05-12T15:10:34.041Z"
+            },
+            {
+                "id": "6a036c3f12e25108eb07b3a0",
+                "dailyId": "6a02ed9a0f986454f7f3b0f4",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/AnWfjMeQ9lI",
+                "number_1": 76,
+                "number_2": 47,
+                "number_3": 66,
+                "number_4": 4,
+                "number_5": 53,
+                "createdAt": "2026-05-12T18:06:55.471Z"
+            }
+        ],
+        "formatedDate": "Ter\u00e7a-feira, 12 de Maio de 2026, 09:06:34"
+    },
+    {
+        "id": "6a019c150f986454f7f3b0ef",
+        "date": "2026-05-11T09:06:28.714Z",
+        "results": [
+            {
+                "id": "6a019c150f986454f7f3b0f0",
+                "dailyId": "6a019c150f986454f7f3b0ef",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/Wgf_5Qs3ZEY",
+                "number_1": 37,
+                "number_2": 69,
+                "number_3": 60,
+                "number_4": 30,
+                "number_5": 58,
+                "createdAt": "2026-05-11T09:06:29.019Z"
+            },
+            {
+                "id": "6a01c6a50f986454f7f3b0f2",
+                "dailyId": "6a019c150f986454f7f3b0ef",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/pUXVwhxsxIo",
+                "number_1": 63,
+                "number_2": 17,
+                "number_3": 53,
+                "number_4": 74,
+                "number_5": 82,
+                "createdAt": "2026-05-11T12:08:05.604Z"
+            },
+            {
+                "id": "6a01f0b9a8657c21ca3c051d",
+                "dailyId": "6a019c150f986454f7f3b0ef",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/A7-u4PPHXH0",
+                "number_1": 8,
+                "number_2": 42,
+                "number_3": 3,
+                "number_4": 84,
+                "number_5": 4,
+                "createdAt": "2026-05-11T15:07:37.113Z"
+            },
+            {
+                "id": "6a021a2d458af103beb2adbc",
+                "dailyId": "6a019c150f986454f7f3b0ef",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/wExbAAzy7bs",
+                "number_1": 71,
+                "number_2": 66,
+                "number_3": 73,
+                "number_4": 11,
+                "number_5": 28,
+                "createdAt": "2026-05-11T18:04:29.168Z"
+            }
+        ],
+        "formatedDate": "Segunda-feira, 11 de Maio de 2026, 09:06:28"
+    },
+    {
+        "id": "6a004c1d12e25108eb07b398",
+        "date": "2026-05-10T09:13:01.488Z",
+        "results": [
+            {
+                "id": "6a004c1d12e25108eb07b399",
+                "dailyId": "6a004c1d12e25108eb07b398",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/yGarSEfKVkc",
+                "number_1": 42,
+                "number_2": 62,
+                "number_3": 87,
+                "number_4": 4,
+                "number_5": 45,
+                "createdAt": "2026-05-10T09:13:01.800Z"
+            },
+            {
+                "id": "6a00750f0f986454f7f3b0ed",
+                "dailyId": "6a004c1d12e25108eb07b398",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/313vxcZeO-w",
+                "number_1": 61,
+                "number_2": 17,
+                "number_3": 63,
+                "number_4": 46,
+                "number_5": 75,
+                "createdAt": "2026-05-10T12:07:43.272Z"
+            },
+            {
+                "id": "6a009fb3a8657c21ca3c0518",
+                "dailyId": "6a004c1d12e25108eb07b398",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/yNKuJQa2FIw",
+                "number_1": 89,
+                "number_2": 7,
+                "number_3": 42,
+                "number_4": 84,
+                "number_5": 76,
+                "createdAt": "2026-05-10T15:09:39.476Z"
+            },
+            {
+                "id": "6a00c951a8657c21ca3c051b",
+                "dailyId": "6a004c1d12e25108eb07b398",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/XKMnQ4c_ROY",
+                "number_1": 35,
+                "number_2": 12,
+                "number_3": 28,
+                "number_4": 22,
+                "number_5": 40,
+                "createdAt": "2026-05-10T18:07:13.319Z"
+            }
+        ],
+        "formatedDate": "Domingo, 10 de Maio de 2026, 09:13:01"
+    },
+    {
+        "id": "69fef8eda8657c21ca3c0513",
+        "date": "2026-05-09T09:05:49.535Z",
+        "results": [
+            {
+                "id": "69fef8eea8657c21ca3c0514",
+                "dailyId": "69fef8eda8657c21ca3c0513",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/7ga22b0JmuU",
+                "number_1": 10,
+                "number_2": 50,
+                "number_3": 85,
+                "number_4": 18,
+                "number_5": 25,
+                "createdAt": "2026-05-09T09:05:49.849Z"
+            },
+            {
+                "id": "69ff233e458af103beb2adb7",
+                "dailyId": "69fef8eda8657c21ca3c0513",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/nNODAfQS1wU",
+                "number_1": 42,
+                "number_2": 13,
+                "number_3": 11,
+                "number_4": 35,
+                "number_5": 73,
+                "createdAt": "2026-05-09T12:06:21.977Z"
+            },
+            {
+                "id": "69ff4de612e25108eb07b394",
+                "dailyId": "69fef8eda8657c21ca3c0513",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/EN9GUrknS38",
+                "number_1": 89,
+                "number_2": 40,
+                "number_3": 35,
+                "number_4": 6,
+                "number_5": 37,
+                "createdAt": "2026-05-09T15:08:22.414Z"
+            },
+            {
+                "id": "69ff779b12e25108eb07b396",
+                "dailyId": "69fef8eda8657c21ca3c0513",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/amHCJ2tQ9vU",
+                "number_1": 89,
+                "number_2": 38,
+                "number_3": 40,
+                "number_4": 75,
+                "number_5": 41,
+                "createdAt": "2026-05-09T18:06:18.769Z"
+            }
+        ],
+        "formatedDate": "S\u00e1bado, 9 de Maio de 2026, 09:05:49"
+    },
+    {
+        "id": "69fda79e12e25108eb07b38f",
+        "date": "2026-05-08T09:06:37.710Z",
+        "results": [
+            {
+                "id": "69fda79e12e25108eb07b390",
+                "dailyId": "69fda79e12e25108eb07b38f",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/NkvqBmv-HXE",
+                "number_1": 5,
+                "number_2": 12,
+                "number_3": 60,
+                "number_4": 73,
+                "number_5": 37,
+                "createdAt": "2026-05-08T09:06:38.008Z"
+            },
+            {
+                "id": "69fdd19f458af103beb2adb4",
+                "dailyId": "69fda79e12e25108eb07b38f",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/3PIF0CYSRB0",
+                "number_1": 4,
+                "number_2": 52,
+                "number_3": 88,
+                "number_4": 33,
+                "number_5": 13,
+                "createdAt": "2026-05-08T12:05:51.298Z"
+            },
+            {
+                "id": "69fdfba60f986454f7f3b0e7",
+                "dailyId": "69fda79e12e25108eb07b38f",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/4fivwhG8YI0",
+                "number_1": 77,
+                "number_2": 38,
+                "number_3": 6,
+                "number_4": 60,
+                "number_5": 80,
+                "createdAt": "2026-05-08T15:05:10.621Z"
+            },
+            {
+                "id": "69fe261aa8657c21ca3c0511",
+                "dailyId": "69fda79e12e25108eb07b38f",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/x3lm7snrEPg",
+                "number_1": 62,
+                "number_2": 22,
+                "number_3": 80,
+                "number_4": 45,
+                "number_5": 13,
+                "createdAt": "2026-05-08T18:06:18.053Z"
+            }
+        ],
+        "formatedDate": "Sexta-feira, 8 de Maio de 2026, 09:06:37"
+    },
+    {
         "id": "69fc561312e25108eb07b38c",
         "date": "2026-05-07T09:06:27.101Z",
         "results": [
