@@ -25,8 +25,12 @@ HEADERS = {
     "Origin":          "https://www.lotarianacional.co.ao",
 }
 
+
 def purge_jsdelivr():
-    url = f"https://purge.jsdelivr.net/gh/{GITHUB_USER}/{GITHUB_REPO}@main/{ARQUIVO_JSON}"
+    url = (
+        f"https://purge.jsdelivr.net/gh/{GITHUB_USER}/"
+        f"{GITHUB_REPO}@main/{ARQUIVO_JSON}"
+    )
     try:
         r = requests.get(url, timeout=15)
         if r.status_code == 200:
@@ -36,9 +40,13 @@ def purge_jsdelivr():
     except Exception as e:
         print(f"⚠️ jsDelivr purge falhou: {e}")
 
+
 def extrair():
     agora_angola = datetime.now(ANGOLA_TZ)
-    print(f"[{agora_angola.strftime('%Y-%m-%d %H:%M:%S')} Angola] 🎲 Iniciando extracção...")
+    print(
+        f"[{agora_angola.strftime('%Y-%m-%d %H:%M:%S')} Angola] "
+        f"🎲 Iniciando extracção..."
+    )
 
     todos = []
     pagina = 1
@@ -72,16 +80,22 @@ def extrair():
         print("❌ Nenhum registo obtido — API bloqueou ou está inacessível")
         return False
 
-    # Remover duplicatas por data (1 registo = 1 dia)
+    # Remover duplicatas por ID único (data + sessão)
     vistos = set()
     sem_dup = []
     for item in todos:
-        uid = item.get('date', '')[:10]
+        # Chave única: data + sessão (mais preciso que só a data)
+        data    = item.get('date', '')[:10]
+        sessao  = item.get('session', '') or item.get('type', '') or ''
+        uid     = f"{data}_{sessao}"
         if uid and uid not in vistos:
             vistos.add(uid)
             sem_dup.append(item)
 
-    sem_dup.sort(key=lambda x: x.get('date', ''), reverse=True)
+    sem_dup.sort(key=lambda x: (
+        x.get('date', ''),
+        x.get('session', '') or ''
+    ), reverse=True)
 
     with open(ARQUIVO_JSON, 'w', encoding='utf-8') as f:
         json.dump(sem_dup, f, indent=4, ensure_ascii=False)
@@ -89,17 +103,19 @@ def extrair():
     # Contar sorteios de hoje em hora Angola
     hoje = agora_angola.strftime("%Y-%m-%d")
     sorteios_hoje = sum(
-        len(item.get('results', []))
-        for item in sem_dup
+        1 for item in sem_dup
         if item.get('date', '').startswith(hoje)
     )
 
-    print(f"✅ {len(sem_dup)} registos guardados | hoje ({hoje}): {sorteios_hoje} sorteios")
+    print(
+        f"✅ {len(sem_dup)} registos guardados | "
+        f"hoje ({hoje}): {sorteios_hoje} sorteios"
+    )
 
     # Limpar cache CDN
     purge_jsdelivr()
-
     return True
+
 
 if __name__ == "__main__":
     extrair()
