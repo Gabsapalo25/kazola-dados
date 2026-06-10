@@ -2,37 +2,59 @@ name: Extrair Sorteios Kazola
 
 on:
   schedule:
+    # ── Horários em UTC (Angola = UTC+1, portanto -1h) ──────────────
+    # Fezada 10:05, 10:10, 10:20 Angola = 09:05, 09:10, 09:20 UTC
     - cron: '5 9 * * *'
     - cron: '10 9 * * *'
     - cron: '20 9 * * *'
+    # Aqueceu 13:05, 13:10, 13:20 Angola = 12:05, 12:10, 12:20 UTC
     - cron: '5 12 * * *'
     - cron: '10 12 * * *'
     - cron: '20 12 * * *'
+    # Kazola 16:05, 16:10, 16:20 Angola = 15:05, 15:10, 15:20 UTC
     - cron: '5 15 * * *'
     - cron: '10 15 * * *'
     - cron: '20 15 * * *'
+    # Eskebra 19:05, 19:10, 19:20 Angola = 18:05, 18:10, 18:20 UTC
     - cron: '5 18 * * *'
     - cron: '10 18 * * *'
     - cron: '20 18 * * *'
-    - cron: '0 23 * * *'
-    - cron: '0 5 * * *'
-    - cron: '0 8 * * *'
-    - cron: '0 19 * * *'
+    # Extras
+    - cron: '0 23 * * *'   # 00:00 Angola
+    - cron: '0 5 * * *'    # 06:00 Angola
+    - cron: '0 8 * * *'    # 09:00 Angola
+    - cron: '0 19 * * *'   # 20:00 Angola
+
+  # Botão manual no GitHub — equivalente à opção 1 do PC
   workflow_dispatch:
 
 jobs:
   extrair:
     runs-on: ubuntu-latest
+
+    # ESSENCIAL — sem isto o git push falha com erro 403
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
-      - run: pip install requests
-      - run: python extrair_github.py
-      - run: |
+          python-version: '3.11'
+
+      - name: Instalar dependências
+        run: pip install requests
+
+      - name: Extrair sorteios da API
+        run: python .github/workflows/extrair_github.py
+
+      - name: Commit e push se houver alterações
+        run: |
           git config user.email "action@github.com"
-          git config user.name "GitHub Action"
+          git config user.name "GitHub Actions — Kazola"
           git add historico_completo.json
-          git diff --staged --quiet || git commit -m "Auto-update $(date '+%Y-%m-%d %H:%M')"
+          git diff --staged --quiet || git commit -m "🔄 Auto-update $(TZ='Africa/Luanda' date '+%Y-%m-%d %H:%M') Angola"
           git push
