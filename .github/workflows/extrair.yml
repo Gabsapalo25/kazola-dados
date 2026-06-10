@@ -25,14 +25,13 @@ on:
     - cron: '0 8 * * *'    # 09:00 Angola
     - cron: '0 19 * * *'   # 20:00 Angola
 
-  # Botão manual no GitHub — equivalente à opção 1 do PC
   workflow_dispatch:
 
 jobs:
   extrair:
     runs-on: ubuntu-latest
-
-    # ESSENCIAL — sem isto o git push falha com erro 403
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     permissions:
       contents: write
 
