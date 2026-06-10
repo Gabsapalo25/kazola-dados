@@ -1,0 +1,38 @@
+name: Extrair Sorteios Kazola
+
+on:
+  schedule:
+    - cron: '5 9 * * *'
+    - cron: '10 9 * * *'
+    - cron: '20 9 * * *'
+    - cron: '5 12 * * *'
+    - cron: '10 12 * * *'
+    - cron: '20 12 * * *'
+    - cron: '5 15 * * *'
+    - cron: '10 15 * * *'
+    - cron: '20 15 * * *'
+    - cron: '5 18 * * *'
+    - cron: '10 18 * * *'
+    - cron: '20 18 * * *'
+    - cron: '0 23 * * *'
+    - cron: '0 5 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 19 * * *'
+  workflow_dispatch:
+
+jobs:
+  extrair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - run: pip install requests
+      - run: python extrair_github.py
+      - run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add historico_completo.json
+          git diff --staged --quiet || git commit -m "Auto-update $(date '+%Y-%m-%d %H:%M')"
+          git push
