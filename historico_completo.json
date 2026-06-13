@@ -26548,5 +26548,2070 @@
             }
         ],
         "formatedDate": "Sábado, 1 de Março de 2025, 09:17:23"
+    },
+    {
+        "id": "67c17d1e491ec992c7edb47f",
+        "date": "2025-02-28T09:08:45.478Z",
+        "results": [
+            {
+                "id": "67c1fb68090f5c5d31f956b3",
+                "dailyId": "67c17d1e491ec992c7edb47f",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/NDGjdrJj6Ps",
+                "number_1": 58,
+                "number_2": 28,
+                "number_3": 80,
+                "number_4": 52,
+                "number_5": 41,
+                "createdAt": "2025-02-28T18:07:35.586Z"
+            },
+            {
+                "id": "67c17d1e491ec992c7edb480",
+                "dailyId": "67c17d1e491ec992c7edb47f",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/sQbznlqRJlg",
+                "number_1": 68,
+                "number_2": 28,
+                "number_3": 65,
+                "number_4": 83,
+                "number_5": 60,
+                "createdAt": "2025-02-28T09:08:46.015Z"
+            },
+            {
+                "id": "67c1d119491ec992c7edb484",
+                "dailyId": "67c17d1e491ec992c7edb47f",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/iM-78YzuZ_c",
+                "number_1": 52,
+                "number_2": 41,
+                "number_3": 62,
+                "number_4": 25,
+                "number_5": 28,
+                "createdAt": "2025-02-28T15:07:04.444Z"
+            },
+            {
+                "id": "67c1a772491ec992c7edb482",
+                "dailyId": "67c17d1e491ec992c7edb47f",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/a7Zxb8tSGSg",
+                "number_1": 30,
+                "number_2": 1,
+                "number_3": 60,
+                "number_4": 59,
+                "number_5": 75,
+                "createdAt": "2025-02-28T12:09:21.443Z"
+            }
+        ],
+        "formatedDate": "Sexta-feira, 28 de Fevereiro de 2025, 09:08:45"
+    },
+    {
+        "id": "67c02c5c0e1ecde9ead3169e",
+        "date": "2025-02-27T09:11:55.594Z",
+        "results": [
+            {
+                "id": "67c07fde87bff244bffde03c",
+                "dailyId": "67c02c5c0e1ecde9ead3169e",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/M6JY7HtnAwU",
+                "number_1": 55,
+                "number_2": 86,
+                "number_3": 38,
+                "number_4": 24,
+                "number_5": 20,
+                "createdAt": "2025-02-27T15:08:13.814Z"
+            },
+            {
+                "id": "67c02c5c0e1ecde9ead3169f",
+                "dailyId": "67c02c5c0e1ecde9ead3169e",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/zV4zWOtPY1o",
+                "number_1": 41,
+                "number_2": 61,
+                "number_3": 60,
+                "number_4": 7,
+                "number_5": 90,
+                "createdAt": "2025-02-27T09:11:56.132Z"
+            },
+            {
+                "id": "67c05fb387bff244bffde03a",
+                "dailyId": "67c02c5c0e1ecde9ead3169e",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/I4dCLA6VCdg",
+                "number_1": 88,
+                "number_2": 87,
+                "number_3": 17,
+                "number_4": 75,
+                "number_5": 50,
+                "createdAt": "2025-02-27T12:50:58.497Z"
+            },
+            {
+                "id": "67c0a9ca87bff244bffde03e",
+                "dailyId": "67c02c5c0e1ecde9ead3169e",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/z52bcZlg7bE",
+                "number_1": 38,
+                "number_2": 21,
+                "number_3": 82,
+                "number_4": 78,
+                "number_5": 54,
+                "createdAt": "2025-02-27T18:07:06.327Z"
+            }
+        ],
+        "formatedDate": "Quinta-feira, 27 de Fevereiro de 2025, 09:11:55"
+    },
+    {
+        "id": "67beda78370e30c94d56eda7",
+        "date": "2025-02-26T09:10:15.416Z",
+        "results": [
+            {
+                "id": "67bf2ef9d34c0236b9d8c6d1",
+                "dailyId": "67beda78370e30c94d56eda7",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/cMoMGd3Evrc",
+                "number_1": 46,
+                "number_2": 15,
+                "number_3": 80,
+                "number_4": 49,
+                "number_5": 85,
+                "createdAt": "2025-02-26T15:10:49.007Z"
+            },
+            {
+                "id": "67bf046a370e30c94d56edac",
+                "dailyId": "67beda78370e30c94d56eda7",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/PTpkzrSQCKY",
+                "number_1": 82,
+                "number_2": 61,
+                "number_3": 25,
+                "number_4": 49,
+                "number_5": 59,
+                "createdAt": "2025-02-26T12:09:13.481Z"
+            },
+            {
+                "id": "67bf60d5d34c0236b9d8c6d8",
+                "dailyId": "67beda78370e30c94d56eda7",
+                "name": "eskebra",
+                "hour": "19:00",
+                "videoURL": "https://www.youtube.com/embed/866UWYCR-sQ",
+                "number_1": 33,
+                "number_2": 65,
+                "number_3": 20,
+                "number_4": 63,
+                "number_5": 28,
+                "createdAt": "2025-02-26T18:43:32.626Z"
+            },
+            {
+                "id": "67beda78370e30c94d56eda8",
+                "dailyId": "67beda78370e30c94d56eda7",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/EQJxlqtyjv8",
+                "number_1": 65,
+                "number_2": 49,
+                "number_3": 73,
+                "number_4": 76,
+                "number_5": 54,
+                "createdAt": "2025-02-26T09:10:15.994Z"
+            }
+        ],
+        "formatedDate": "Quarta-feira, 26 de Fevereiro de 2025, 09:10:15"
+    },
+    {
+        "id": "67bd8a62f189003c8b163153",
+        "date": "2025-02-25T09:16:17.918Z",
+        "results": [
+            {
+                "id": "67be06f3f189003c8b16315c",
+                "dailyId": "67bd8a62f189003c8b163153",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/LqSmjFauNgk",
+                "number_1": 87,
+                "number_2": 37,
+                "number_3": 11,
+                "number_4": 71,
+                "number_5": 49,
+                "createdAt": "2025-02-25T18:07:46.986Z"
+            },
+            {
+                "id": "67bd8a62f189003c8b163154",
+                "dailyId": "67bd8a62f189003c8b163153",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/n811FFVFHI8",
+                "number_1": 29,
+                "number_2": 35,
+                "number_3": 68,
+                "number_4": 14,
+                "number_5": 75,
+                "createdAt": "2025-02-25T09:16:18.494Z"
+            },
+            {
+                "id": "67bdb3acf189003c8b163156",
+                "dailyId": "67bd8a62f189003c8b163153",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/a99QvykBqb0",
+                "number_1": 17,
+                "number_2": 30,
+                "number_3": 79,
+                "number_4": 24,
+                "number_5": 63,
+                "createdAt": "2025-02-25T12:12:27.818Z"
+            },
+            {
+                "id": "67bddd18f189003c8b16315a",
+                "dailyId": "67bd8a62f189003c8b163153",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/zaw6-5RAl6s",
+                "number_1": 53,
+                "number_2": 65,
+                "number_3": 1,
+                "number_4": 39,
+                "number_5": 11,
+                "createdAt": "2025-02-25T15:09:11.577Z"
+            }
+        ],
+        "formatedDate": "Terça-feira, 25 de Fevereiro de 2025, 09:16:17"
+    },
+    {
+        "id": "67bc38acba44381eea63e9c7",
+        "date": "2025-02-24T09:15:23.977Z",
+        "results": [
+            {
+                "id": "67bc6151ba44381eea63e9ca",
+                "dailyId": "67bc38acba44381eea63e9c7",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/gRiu9HzBtlc",
+                "number_1": 77,
+                "number_2": 58,
+                "number_3": 13,
+                "number_4": 87,
+                "number_5": 4,
+                "createdAt": "2025-02-24T12:08:49.293Z"
+            },
+            {
+                "id": "67bc8b8fba44381eea63e9cc",
+                "dailyId": "67bc38acba44381eea63e9c7",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/BR8DbEs2wOo",
+                "number_1": 75,
+                "number_2": 1,
+                "number_3": 41,
+                "number_4": 71,
+                "number_5": 59,
+                "createdAt": "2025-02-24T15:09:03.335Z"
+            },
+            {
+                "id": "67bcb556ba44381eea63e9ce",
+                "dailyId": "67bc38acba44381eea63e9c7",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/8BLbCjcX-Fk",
+                "number_1": 3,
+                "number_2": 61,
+                "number_3": 58,
+                "number_4": 55,
+                "number_5": 30,
+                "createdAt": "2025-02-24T18:07:17.830Z"
+            },
+            {
+                "id": "67bc38acba44381eea63e9c8",
+                "dailyId": "67bc38acba44381eea63e9c7",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/QNebzcXEbBw",
+                "number_1": 83,
+                "number_2": 14,
+                "number_3": 3,
+                "number_4": 59,
+                "number_5": 8,
+                "createdAt": "2025-02-24T09:15:24.532Z"
+            }
+        ],
+        "formatedDate": "Segunda-feira, 24 de Fevereiro de 2025, 09:15:23"
+    },
+    {
+        "id": "67b99635c5230ab9d61bb5ed",
+        "date": "2025-02-22T09:17:41.380Z",
+        "results": [
+            {
+                "id": "67b99636c5230ab9d61bb5ee",
+                "dailyId": "67b99635c5230ab9d61bb5ed",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/is73T650TBY",
+                "number_1": 59,
+                "number_2": 39,
+                "number_3": 44,
+                "number_4": 29,
+                "number_5": 32,
+                "createdAt": "2025-02-22T09:17:41.930Z"
+            },
+            {
+                "id": "67b9bec3c5230ab9d61bb5f0",
+                "dailyId": "67b99635c5230ab9d61bb5ed",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/IyAgZD6lArg",
+                "number_1": 70,
+                "number_2": 35,
+                "number_3": 45,
+                "number_4": 7,
+                "number_5": 48,
+                "createdAt": "2025-02-22T12:10:42.726Z"
+            },
+            {
+                "id": "67b9e83ad8f368f6e08348d9",
+                "dailyId": "67b99635c5230ab9d61bb5ed",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/dqS1kGqJ3No",
+                "number_1": 41,
+                "number_2": 4,
+                "number_3": 42,
+                "number_4": 90,
+                "number_5": 13,
+                "createdAt": "2025-02-22T15:07:38.344Z"
+            },
+            {
+                "id": "67ba1259d8f368f6e08348db",
+                "dailyId": "67b99635c5230ab9d61bb5ed",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/OOgFmEWsEKE",
+                "number_1": 57,
+                "number_2": 39,
+                "number_3": 14,
+                "number_4": 36,
+                "number_5": 55,
+                "createdAt": "2025-02-22T18:07:20.918Z"
+            }
+        ],
+        "formatedDate": "Sábado, 22 de Fevereiro de 2025, 09:17:41"
+    },
+    {
+        "id": "67b8436264f4a43899b49b60",
+        "date": "2025-02-21T09:12:02.054Z",
+        "results": [
+            {
+                "id": "67b8436264f4a43899b49b61",
+                "dailyId": "67b8436264f4a43899b49b60",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/YFffQjUGTJQ",
+                "number_1": 52,
+                "number_2": 29,
+                "number_3": 82,
+                "number_4": 89,
+                "number_5": 86,
+                "createdAt": "2025-02-21T09:12:02.601Z"
+            },
+            {
+                "id": "67b8c11409dccaa4320f9938",
+                "dailyId": "67b8436264f4a43899b49b60",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/70aMkSmUNXE",
+                "number_1": 42,
+                "number_2": 66,
+                "number_3": 76,
+                "number_4": 43,
+                "number_5": 47,
+                "createdAt": "2025-02-21T18:08:20.161Z"
+            },
+            {
+                "id": "67b86cd064f4a43899b49b63",
+                "dailyId": "67b8436264f4a43899b49b60",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/ARBqQAhFKuc",
+                "number_1": 29,
+                "number_2": 24,
+                "number_3": 6,
+                "number_4": 83,
+                "number_5": 25,
+                "createdAt": "2025-02-21T12:08:48.193Z"
+            },
+            {
+                "id": "67b896a909dccaa4320f9936",
+                "dailyId": "67b8436264f4a43899b49b60",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/YJMjYgGphQ4",
+                "number_1": 64,
+                "number_2": 78,
+                "number_3": 61,
+                "number_4": 43,
+                "number_5": 16,
+                "createdAt": "2025-02-21T15:07:21.016Z"
+            }
+        ],
+        "formatedDate": "Sexta-feira, 21 de Fevereiro de 2025, 09:12:02"
+    },
+    {
+        "id": "67b6f0f53fe82d644565b9ac",
+        "date": "2025-02-20T09:08:05.293Z",
+        "results": [
+            {
+                "id": "67b71b613fe82d644565b9b0",
+                "dailyId": "67b6f0f53fe82d644565b9ac",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/L0DJ-klBgLM",
+                "number_1": 24,
+                "number_2": 38,
+                "number_3": 6,
+                "number_4": 53,
+                "number_5": 33,
+                "createdAt": "2025-02-20T12:09:05.079Z"
+            },
+            {
+                "id": "67b6f0f63fe82d644565b9ad",
+                "dailyId": "67b6f0f53fe82d644565b9ac",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/Q__N_5NzfGY",
+                "number_1": 82,
+                "number_2": 14,
+                "number_3": 15,
+                "number_4": 90,
+                "number_5": 35,
+                "createdAt": "2025-02-20T09:08:05.840Z"
+            },
+            {
+                "id": "67b745b034985742da8e7c18",
+                "dailyId": "67b6f0f53fe82d644565b9ac",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/iVfHywS3aVc",
+                "number_1": 56,
+                "number_2": 40,
+                "number_3": 22,
+                "number_4": 32,
+                "number_5": 72,
+                "createdAt": "2025-02-20T15:09:36.132Z"
+            },
+            {
+                "id": "67b76fc17c37f90b3df95d3f",
+                "dailyId": "67b6f0f53fe82d644565b9ac",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/D94p8slIqWo",
+                "number_1": 37,
+                "number_2": 17,
+                "number_3": 75,
+                "number_4": 4,
+                "number_5": 29,
+                "createdAt": "2025-02-20T18:09:05.273Z"
+            }
+        ],
+        "formatedDate": "Quinta-feira, 20 de Fevereiro de 2025, 09:08:05"
+    },
+    {
+        "id": "67b5a032d6b8d43a698164a3",
+        "date": "2025-02-19T09:11:14.175Z",
+        "results": [
+            {
+                "id": "67b5c9ebd6b8d43a698164a7",
+                "dailyId": "67b5a032d6b8d43a698164a3",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/o0O3w_gPm4M",
+                "number_1": 64,
+                "number_2": 16,
+                "number_3": 41,
+                "number_4": 63,
+                "number_5": 81,
+                "createdAt": "2025-02-19T12:09:14.875Z"
+            },
+            {
+                "id": "67b61ed74269b702af753ae1",
+                "dailyId": "67b5a032d6b8d43a698164a3",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/LSBNg2yxgNI",
+                "number_1": 71,
+                "number_2": 79,
+                "number_3": 19,
+                "number_4": 64,
+                "number_5": 63,
+                "createdAt": "2025-02-19T18:11:34.438Z"
+            },
+            {
+                "id": "67b5a033d6b8d43a698164a4",
+                "dailyId": "67b5a032d6b8d43a698164a3",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/WejBjyBe_fI",
+                "number_1": 43,
+                "number_2": 79,
+                "number_3": 29,
+                "number_4": 37,
+                "number_5": 67,
+                "createdAt": "2025-02-19T09:11:14.723Z"
+            },
+            {
+                "id": "67b5f3e64269b702af753ade",
+                "dailyId": "67b5a032d6b8d43a698164a3",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/T4Y-R23rAJk",
+                "number_1": 89,
+                "number_2": 52,
+                "number_3": 90,
+                "number_4": 70,
+                "number_5": 88,
+                "createdAt": "2025-02-19T15:08:21.777Z"
+            }
+        ],
+        "formatedDate": "Quarta-feira, 19 de Fevereiro de 2025, 09:11:14"
+    },
+    {
+        "id": "67b44e694d58be4a8c3a1275",
+        "date": "2025-02-18T09:10:00.332Z",
+        "results": [
+            {
+                "id": "67b4a292809930f9c5ab9ccf",
+                "dailyId": "67b44e694d58be4a8c3a1275",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/TtW2ST17BMk",
+                "number_1": 70,
+                "number_2": 59,
+                "number_3": 4,
+                "number_4": 19,
+                "number_5": 50,
+                "createdAt": "2025-02-18T15:09:05.877Z"
+            },
+            {
+                "id": "67b4cc39809930f9c5ab9cd2",
+                "dailyId": "67b44e694d58be4a8c3a1275",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/E7RvjanKoFI",
+                "number_1": 67,
+                "number_2": 1,
+                "number_3": 7,
+                "number_4": 18,
+                "number_5": 14,
+                "createdAt": "2025-02-18T18:06:48.631Z"
+            },
+            {
+                "id": "67b44e694d58be4a8c3a1276",
+                "dailyId": "67b44e694d58be4a8c3a1275",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/8nsgmDMr860",
+                "number_1": 90,
+                "number_2": 27,
+                "number_3": 62,
+                "number_4": 15,
+                "number_5": 7,
+                "createdAt": "2025-02-18T09:10:00.867Z"
+            },
+            {
+                "id": "67b47823809930f9c5ab9ccc",
+                "dailyId": "67b44e694d58be4a8c3a1275",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/xtp12IxyTMc",
+                "number_1": 50,
+                "number_2": 19,
+                "number_3": 47,
+                "number_4": 12,
+                "number_5": 22,
+                "createdAt": "2025-02-18T12:08:02.539Z"
+            }
+        ],
+        "formatedDate": "Terça-feira, 18 de Fevereiro de 2025, 09:10:00"
+    },
+    {
+        "id": "67b2fd0fe9b89ac4be53cacf",
+        "date": "2025-02-17T09:10:38.922Z",
+        "results": [
+            {
+                "id": "67b3276fe9b89ac4be53cad3",
+                "dailyId": "67b2fd0fe9b89ac4be53cacf",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/sFCKd5B9l5M",
+                "number_1": 83,
+                "number_2": 16,
+                "number_3": 4,
+                "number_4": 14,
+                "number_5": 46,
+                "createdAt": "2025-02-17T12:11:26.717Z"
+            },
+            {
+                "id": "67b37ad7e9b89ac4be53cad9",
+                "dailyId": "67b2fd0fe9b89ac4be53cacf",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/-5SEMXMEsCY",
+                "number_1": 51,
+                "number_2": 9,
+                "number_3": 28,
+                "number_4": 67,
+                "number_5": 20,
+                "createdAt": "2025-02-17T18:07:18.725Z"
+            },
+            {
+                "id": "67b2fd0fe9b89ac4be53cad0",
+                "dailyId": "67b2fd0fe9b89ac4be53cacf",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/5mREOPXjVQE",
+                "number_1": 69,
+                "number_2": 56,
+                "number_3": 14,
+                "number_4": 57,
+                "number_5": 74,
+                "createdAt": "2025-02-17T09:10:39.467Z"
+            },
+            {
+                "id": "67b35262e9b89ac4be53cad6",
+                "dailyId": "67b2fd0fe9b89ac4be53cacf",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/YI6zysmdSG4",
+                "number_1": 67,
+                "number_2": 14,
+                "number_3": 27,
+                "number_4": 39,
+                "number_5": 84,
+                "createdAt": "2025-02-17T15:14:42.294Z"
+            }
+        ],
+        "formatedDate": "Segunda-feira, 17 de Fevereiro de 2025, 09:10:38"
+    },
+    {
+        "id": "67b059f5141f158fb115fbba",
+        "date": "2025-02-15T09:10:13.074Z",
+        "results": [
+            {
+                "id": "67b0ae08368a50f735bb5a86",
+                "dailyId": "67b059f5141f158fb115fbba",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/22WeCKR9B58",
+                "number_1": 53,
+                "number_2": 10,
+                "number_3": 20,
+                "number_4": 14,
+                "number_5": 63,
+                "createdAt": "2025-02-15T15:08:56.259Z"
+            },
+            {
+                "id": "67b0d84fa91da208566820b7",
+                "dailyId": "67b059f5141f158fb115fbba",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/teFrpDiY1wA",
+                "number_1": 70,
+                "number_2": 74,
+                "number_3": 11,
+                "number_4": 83,
+                "number_5": 77,
+                "createdAt": "2025-02-15T18:09:18.983Z"
+            },
+            {
+                "id": "67b059f5141f158fb115fbbb",
+                "dailyId": "67b059f5141f158fb115fbba",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/vU_BgzqqXOw",
+                "number_1": 24,
+                "number_2": 46,
+                "number_3": 90,
+                "number_4": 71,
+                "number_5": 44,
+                "createdAt": "2025-02-15T09:10:13.613Z"
+            },
+            {
+                "id": "67b083b18296a0420035bb3f",
+                "dailyId": "67b059f5141f158fb115fbba",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/ll2n2t5K7Zk",
+                "number_1": 6,
+                "number_2": 1,
+                "number_3": 77,
+                "number_4": 43,
+                "number_5": 20,
+                "createdAt": "2025-02-15T12:08:17.343Z"
+            }
+        ],
+        "formatedDate": "Sábado, 15 de Fevereiro de 2025, 09:10:13"
+    },
+    {
+        "id": "67af0836cb2f9bf8591f2601",
+        "date": "2025-02-14T09:09:10.107Z",
+        "results": [
+            {
+                "id": "67af0836cb2f9bf8591f2602",
+                "dailyId": "67af0836cb2f9bf8591f2601",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/jty0tx8FyCY",
+                "number_1": 64,
+                "number_2": 4,
+                "number_3": 82,
+                "number_4": 60,
+                "number_5": 47,
+                "createdAt": "2025-02-14T09:09:10.652Z"
+            },
+            {
+                "id": "67af62c42ef1b5aa64a1e3b3",
+                "dailyId": "67af0836cb2f9bf8591f2601",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/_3RYs3LLA80",
+                "number_1": 19,
+                "number_2": 69,
+                "number_3": 27,
+                "number_4": 55,
+                "number_5": 54,
+                "createdAt": "2025-02-14T15:35:32.330Z"
+            },
+            {
+                "id": "67af33ee2ef1b5aa64a1e3b0",
+                "dailyId": "67af0836cb2f9bf8591f2601",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/VRH6-776f-s",
+                "number_1": 51,
+                "number_2": 6,
+                "number_3": 84,
+                "number_4": 20,
+                "number_5": 77,
+                "createdAt": "2025-02-14T12:15:41.658Z"
+            },
+            {
+                "id": "67af868f2ef1b5aa64a1e3b6",
+                "dailyId": "67af0836cb2f9bf8591f2601",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/a35FLjQzW0E",
+                "number_1": 10,
+                "number_2": 19,
+                "number_3": 6,
+                "number_4": 3,
+                "number_5": 43,
+                "createdAt": "2025-02-14T18:08:15.157Z"
+            }
+        ],
+        "formatedDate": "Sexta-feira, 14 de Fevereiro de 2025, 09:09:10"
+    },
+    {
+        "id": "67adb6dad94c4800fb8b0f0f",
+        "date": "2025-02-13T09:09:46.104Z",
+        "results": [
+            {
+                "id": "67ae0b61d94c4800fb8b0f16",
+                "dailyId": "67adb6dad94c4800fb8b0f0f",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/I-feVRT9e-E",
+                "number_1": 35,
+                "number_2": 70,
+                "number_3": 76,
+                "number_4": 77,
+                "number_5": 11,
+                "createdAt": "2025-02-13T15:10:25.169Z"
+            },
+            {
+                "id": "67ae34d5d94c4800fb8b0f19",
+                "dailyId": "67adb6dad94c4800fb8b0f0f",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/JdJRDKiXK9M",
+                "number_1": 71,
+                "number_2": 6,
+                "number_3": 23,
+                "number_4": 42,
+                "number_5": 76,
+                "createdAt": "2025-02-13T18:07:17.051Z"
+            },
+            {
+                "id": "67adb6dad94c4800fb8b0f10",
+                "dailyId": "67adb6dad94c4800fb8b0f0f",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/hQ0wgA0MI9I",
+                "number_1": 52,
+                "number_2": 88,
+                "number_3": 54,
+                "number_4": 78,
+                "number_5": 77,
+                "createdAt": "2025-02-13T09:09:46.648Z"
+            },
+            {
+                "id": "67ade108d94c4800fb8b0f13",
+                "dailyId": "67adb6dad94c4800fb8b0f0f",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/nSqulwQDeEA",
+                "number_1": 47,
+                "number_2": 45,
+                "number_3": 79,
+                "number_4": 35,
+                "number_5": 64,
+                "createdAt": "2025-02-13T12:09:43.925Z"
+            }
+        ],
+        "formatedDate": "Quinta-feira, 13 de Fevereiro de 2025, 09:09:46"
+    },
+    {
+        "id": "67ac65f32c190dfe8ff5728d",
+        "date": "2025-02-12T09:12:19.160Z",
+        "results": [
+            {
+                "id": "67ac65f42c190dfe8ff5728e",
+                "dailyId": "67ac65f32c190dfe8ff5728d",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/GjuQy-YPJeg",
+                "number_1": 22,
+                "number_2": 61,
+                "number_3": 7,
+                "number_4": 84,
+                "number_5": 3,
+                "createdAt": "2025-02-12T09:12:19.715Z"
+            },
+            {
+                "id": "67acba87437b1f9a53c95419",
+                "dailyId": "67ac65f32c190dfe8ff5728d",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/oL9k0Ykh2Q4",
+                "number_1": 17,
+                "number_2": 47,
+                "number_3": 88,
+                "number_4": 78,
+                "number_5": 12,
+                "createdAt": "2025-02-12T15:13:10.745Z"
+            },
+            {
+                "id": "67ac8f452c190dfe8ff57291",
+                "dailyId": "67ac65f32c190dfe8ff5728d",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/4FEiUlkEUEI",
+                "number_1": 87,
+                "number_2": 83,
+                "number_3": 6,
+                "number_4": 71,
+                "number_5": 29,
+                "createdAt": "2025-02-12T12:08:36.898Z"
+            },
+            {
+                "id": "67ace39a437b1f9a53c9541c",
+                "dailyId": "67ac65f32c190dfe8ff5728d",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/1BhDxKyzblM",
+                "number_1": 47,
+                "number_2": 81,
+                "number_3": 15,
+                "number_4": 63,
+                "number_5": 3,
+                "createdAt": "2025-02-12T18:08:25.471Z"
+            }
+        ],
+        "formatedDate": "Quarta-feira, 12 de Fevereiro de 2025, 09:12:19"
+    },
+    {
+        "id": "67ab13da28e71e9dccee54e4",
+        "date": "2025-02-11T09:09:46.444Z",
+        "results": [
+            {
+                "id": "67ab13db28e71e9dccee54e5",
+                "dailyId": "67ab13da28e71e9dccee54e4",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/jSJV6xz-X_I",
+                "number_1": 12,
+                "number_2": 65,
+                "number_3": 10,
+                "number_4": 16,
+                "number_5": 73,
+                "createdAt": "2025-02-11T09:09:46.989Z"
+            },
+            {
+                "id": "67ab3e2a66b80adca4555ba3",
+                "dailyId": "67ab13da28e71e9dccee54e4",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/eyaPSR3qVwA",
+                "number_1": 20,
+                "number_2": 48,
+                "number_3": 41,
+                "number_4": 32,
+                "number_5": 40,
+                "createdAt": "2025-02-11T12:10:18.033Z"
+            },
+            {
+                "id": "67ab691d7948ee185e35cc60",
+                "dailyId": "67ab13da28e71e9dccee54e4",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/NHAFjMnTMAg",
+                "number_1": 78,
+                "number_2": 17,
+                "number_3": 65,
+                "number_4": 36,
+                "number_5": 18,
+                "createdAt": "2025-02-11T15:13:32.899Z"
+            },
+            {
+                "id": "67ab920c7948ee185e35cc63",
+                "dailyId": "67ab13da28e71e9dccee54e4",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/oCOyF8EjoTU",
+                "number_1": 13,
+                "number_2": 89,
+                "number_3": 72,
+                "number_4": 59,
+                "number_5": 52,
+                "createdAt": "2025-02-11T18:08:11.802Z"
+            }
+        ],
+        "formatedDate": "Terça-feira, 11 de Fevereiro de 2025, 09:09:46"
+    },
+    {
+        "id": "67a9c2f216452d66bdf39661",
+        "date": "2025-02-10T09:12:18.080Z",
+        "results": [
+            {
+                "id": "67a9c2f216452d66bdf39662",
+                "dailyId": "67a9c2f216452d66bdf39661",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/yFFrbDDMSmY",
+                "number_1": 86,
+                "number_2": 25,
+                "number_3": 20,
+                "number_4": 73,
+                "number_5": 90,
+                "createdAt": "2025-02-10T09:12:18.620Z"
+            },
+            {
+                "id": "67a9ed4616452d66bdf39665",
+                "dailyId": "67a9c2f216452d66bdf39661",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/uu1sEqlTzNA",
+                "number_1": 80,
+                "number_2": 33,
+                "number_3": 13,
+                "number_4": 57,
+                "number_5": 51,
+                "createdAt": "2025-02-10T12:12:53.662Z"
+            },
+            {
+                "id": "67aa16b0acd32bc0bd620a6a",
+                "dailyId": "67a9c2f216452d66bdf39661",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/rKxajJqdzDg",
+                "number_1": 2,
+                "number_2": 8,
+                "number_3": 80,
+                "number_4": 62,
+                "number_5": 42,
+                "createdAt": "2025-02-10T15:09:36.369Z"
+            },
+            {
+                "id": "67aa405facd32bc0bd620a6d",
+                "dailyId": "67a9c2f216452d66bdf39661",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/Xjy8JmzrOWo",
+                "number_1": 4,
+                "number_2": 76,
+                "number_3": 29,
+                "number_4": 41,
+                "number_5": 51,
+                "createdAt": "2025-02-10T18:07:27.412Z"
+            }
+        ],
+        "formatedDate": "Segunda-feira, 10 de Fevereiro de 2025, 09:12:18"
+    },
+    {
+        "id": "67a71f11ddb13ce6181949f3",
+        "date": "2025-02-08T09:08:33.352Z",
+        "results": [
+            {
+                "id": "67a749449e458c7e90763dc8",
+                "dailyId": "67a71f11ddb13ce6181949f3",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/0eMDiHxBNtc",
+                "number_1": 75,
+                "number_2": 21,
+                "number_3": 8,
+                "number_4": 46,
+                "number_5": 70,
+                "createdAt": "2025-02-08T12:08:36.206Z"
+            },
+            {
+                "id": "67a79e0d6f348a671255e6a8",
+                "dailyId": "67a71f11ddb13ce6181949f3",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/LqT6gUdl1Io",
+                "number_1": 58,
+                "number_2": 86,
+                "number_3": 81,
+                "number_4": 54,
+                "number_5": 13,
+                "createdAt": "2025-02-08T18:10:20.963Z"
+            },
+            {
+                "id": "67a71f12ddb13ce6181949f4",
+                "dailyId": "67a71f11ddb13ce6181949f3",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/wGSgGNrZDdg",
+                "number_1": 8,
+                "number_2": 31,
+                "number_3": 33,
+                "number_4": 40,
+                "number_5": 64,
+                "createdAt": "2025-02-08T09:08:33.890Z"
+            },
+            {
+                "id": "67a773855827689bd661d6fd",
+                "dailyId": "67a71f11ddb13ce6181949f3",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/HncRIZyV3Bg",
+                "number_1": 46,
+                "number_2": 6,
+                "number_3": 31,
+                "number_4": 39,
+                "number_5": 18,
+                "createdAt": "2025-02-08T15:08:52.633Z"
+            }
+        ],
+        "formatedDate": "Sábado, 8 de Fevereiro de 2025, 09:08:33"
+    },
+    {
+        "id": "67a5cdf2661e11c9edb9d64d",
+        "date": "2025-02-07T09:10:09.793Z",
+        "results": [
+            {
+                "id": "67a5f8cd1db047e1e5ad91e6",
+                "dailyId": "67a5cdf2661e11c9edb9d64d",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/6y7jS3o2H8w",
+                "number_1": 57,
+                "number_2": 22,
+                "number_3": 7,
+                "number_4": 59,
+                "number_5": 2,
+                "createdAt": "2025-02-07T12:13:01.147Z"
+            },
+            {
+                "id": "67a5cdf2661e11c9edb9d64e",
+                "dailyId": "67a5cdf2661e11c9edb9d64d",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/KVD9KmZMRXI",
+                "number_1": 1,
+                "number_2": 68,
+                "number_3": 54,
+                "number_4": 9,
+                "number_5": 5,
+                "createdAt": "2025-02-07T09:10:10.340Z"
+            },
+            {
+                "id": "67a64c091db047e1e5ad91ec",
+                "dailyId": "67a5cdf2661e11c9edb9d64d",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/lg3ZSI3FsrI",
+                "number_1": 56,
+                "number_2": 9,
+                "number_3": 69,
+                "number_4": 74,
+                "number_5": 2,
+                "createdAt": "2025-02-07T18:08:08.585Z"
+            },
+            {
+                "id": "67a621cc1db047e1e5ad91e9",
+                "dailyId": "67a5cdf2661e11c9edb9d64d",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/fgiPPPFMc18",
+                "number_1": 77,
+                "number_2": 67,
+                "number_3": 42,
+                "number_4": 33,
+                "number_5": 16,
+                "createdAt": "2025-02-07T15:07:56.034Z"
+            }
+        ],
+        "formatedDate": "Sexta-feira, 7 de Fevereiro de 2025, 09:10:09"
+    },
+    {
+        "id": "67a47c96cde060486326ce4a",
+        "date": "2025-02-06T09:10:45.776Z",
+        "results": [
+            {
+                "id": "67a47c96cde060486326ce4b",
+                "dailyId": "67a47c96cde060486326ce4a",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/lxEEIcmX7UU",
+                "number_1": 24,
+                "number_2": 28,
+                "number_3": 8,
+                "number_4": 61,
+                "number_5": 43,
+                "createdAt": "2025-02-06T09:10:46.320Z"
+            },
+            {
+                "id": "67a4faebc1dfaf385355c4f7",
+                "dailyId": "67a47c96cde060486326ce4a",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/o8O41WxHAmU",
+                "number_1": 23,
+                "number_2": 62,
+                "number_3": 44,
+                "number_4": 66,
+                "number_5": 86,
+                "createdAt": "2025-02-06T18:09:47.219Z"
+            },
+            {
+                "id": "67a4a68bc1dfaf385355c4f1",
+                "dailyId": "67a47c96cde060486326ce4a",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/xbM0AkDnd54",
+                "number_1": 23,
+                "number_2": 59,
+                "number_3": 44,
+                "number_4": 20,
+                "number_5": 21,
+                "createdAt": "2025-02-06T12:09:46.873Z"
+            },
+            {
+                "id": "67a4d23ec1dfaf385355c4f4",
+                "dailyId": "67a47c96cde060486326ce4a",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/8bx9dFd4yoA",
+                "number_1": 57,
+                "number_2": 65,
+                "number_3": 51,
+                "number_4": 33,
+                "number_5": 54,
+                "createdAt": "2025-02-06T15:16:13.512Z"
+            }
+        ],
+        "formatedDate": "Quinta-feira, 6 de Fevereiro de 2025, 09:10:45"
+    },
+    {
+        "id": "67a32afed7508e184710fccd",
+        "date": "2025-02-05T09:10:21.938Z",
+        "results": [
+            {
+                "id": "67a37f8a13122c34a11363f2",
+                "dailyId": "67a32afed7508e184710fccd",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/Rj4ERTw9zKs",
+                "number_1": 54,
+                "number_2": 76,
+                "number_3": 86,
+                "number_4": 8,
+                "number_5": 62,
+                "createdAt": "2025-02-05T15:11:05.712Z"
+            },
+            {
+                "id": "67a32afed7508e184710fcce",
+                "dailyId": "67a32afed7508e184710fccd",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/fAMPAezIyY0",
+                "number_1": 44,
+                "number_2": 88,
+                "number_3": 31,
+                "number_4": 63,
+                "number_5": 2,
+                "createdAt": "2025-02-05T09:10:22.479Z"
+            },
+            {
+                "id": "67a3a94bd42e89c454484165",
+                "dailyId": "67a32afed7508e184710fccd",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/K6ylKlUvrJc",
+                "number_1": 61,
+                "number_2": 57,
+                "number_3": 81,
+                "number_4": 51,
+                "number_5": 4,
+                "createdAt": "2025-02-05T18:09:14.937Z"
+            },
+            {
+                "id": "67a3558013122c34a11363ef",
+                "dailyId": "67a32afed7508e184710fccd",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/OqOF9iKN8J0",
+                "number_1": 49,
+                "number_2": 5,
+                "number_3": 23,
+                "number_4": 56,
+                "number_5": 75,
+                "createdAt": "2025-02-05T12:11:44.256Z"
+            }
+        ],
+        "formatedDate": "Quarta-feira, 5 de Fevereiro de 2025, 09:10:21"
+    },
+    {
+        "id": "67a1d9d5164636d8cf512a25",
+        "date": "2025-02-04T09:11:48.980Z",
+        "results": [
+            {
+                "id": "67a1d9d5164636d8cf512a26",
+                "dailyId": "67a1d9d5164636d8cf512a25",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/1-wD5PBbjUY",
+                "number_1": 16,
+                "number_2": 35,
+                "number_3": 24,
+                "number_4": 49,
+                "number_5": 51,
+                "createdAt": "2025-02-04T09:11:49.527Z"
+            },
+            {
+                "id": "67a203a6164636d8cf512a29",
+                "dailyId": "67a1d9d5164636d8cf512a25",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/GOsdZ1BSmo8",
+                "number_1": 8,
+                "number_2": 60,
+                "number_3": 12,
+                "number_4": 27,
+                "number_5": 86,
+                "createdAt": "2025-02-04T12:10:13.819Z"
+            },
+            {
+                "id": "67a22e0e164636d8cf512a2c",
+                "dailyId": "67a1d9d5164636d8cf512a25",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/lwdYTOlVd5I",
+                "number_1": 78,
+                "number_2": 47,
+                "number_3": 32,
+                "number_4": 88,
+                "number_5": 35,
+                "createdAt": "2025-02-04T15:11:09.396Z"
+            },
+            {
+                "id": "67a2579c6077e50b6ecdfc37",
+                "dailyId": "67a1d9d5164636d8cf512a25",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/kyPkKq8RWZE",
+                "number_1": 20,
+                "number_2": 78,
+                "number_3": 12,
+                "number_4": 15,
+                "number_5": 31,
+                "createdAt": "2025-02-04T18:08:28.238Z"
+            }
+        ],
+        "formatedDate": "Terça-feira, 4 de Fevereiro de 2025, 09:11:48"
+    },
+    {
+        "id": "67a08c17b6f93e667e6722c8",
+        "date": "2025-02-03T09:27:50.902Z",
+        "results": [
+            {
+                "id": "67a0b2ec9c0cf72049ffee60",
+                "dailyId": "67a08c17b6f93e667e6722c8",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/4CPyIaJU_J8",
+                "number_1": 11,
+                "number_2": 10,
+                "number_3": 56,
+                "number_4": 36,
+                "number_5": 51,
+                "createdAt": "2025-02-03T12:13:31.682Z"
+            },
+            {
+                "id": "67a0e0a2ec8ccb5d72664f9d",
+                "dailyId": "67a08c17b6f93e667e6722c8",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/da08SoKlJ58",
+                "number_1": 78,
+                "number_2": 9,
+                "number_3": 41,
+                "number_4": 15,
+                "number_5": 69,
+                "createdAt": "2025-02-03T15:28:33.749Z"
+            },
+            {
+                "id": "67a106bbec8ccb5d72664fa0",
+                "dailyId": "67a08c17b6f93e667e6722c8",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/mfd-2B75iGg",
+                "number_1": 62,
+                "number_2": 68,
+                "number_3": 49,
+                "number_4": 39,
+                "number_5": 28,
+                "createdAt": "2025-02-03T18:11:06.613Z"
+            },
+            {
+                "id": "67a08c17b6f93e667e6722c9",
+                "dailyId": "67a08c17b6f93e667e6722c8",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/t0jMdhSshX0",
+                "number_1": 67,
+                "number_2": 37,
+                "number_3": 14,
+                "number_4": 34,
+                "number_5": 66,
+                "createdAt": "2025-02-03T09:27:51.464Z"
+            }
+        ],
+        "formatedDate": "Segunda-feira, 3 de Fevereiro de 2025, 09:27:50"
+    },
+    {
+        "id": "679de559aebd22ec9c59abe9",
+        "date": "2025-02-01T09:11:53.325Z",
+        "results": [
+            {
+                "id": "679de55aaebd22ec9c59abea",
+                "dailyId": "679de559aebd22ec9c59abe9",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/7hlrgmFcDsE",
+                "number_1": 31,
+                "number_2": 38,
+                "number_3": 50,
+                "number_4": 17,
+                "number_5": 18,
+                "createdAt": "2025-02-01T09:11:53.872Z"
+            },
+            {
+                "id": "679e3a4906f18c68e82357e0",
+                "dailyId": "679de559aebd22ec9c59abe9",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/g22o_kV_Hfg",
+                "number_1": 21,
+                "number_2": 60,
+                "number_3": 2,
+                "number_4": 3,
+                "number_5": 1,
+                "createdAt": "2025-02-01T15:14:16.790Z"
+            },
+            {
+                "id": "679e0f702bebaa8b0f5574ad",
+                "dailyId": "679de559aebd22ec9c59abe9",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/vlg-MR3bSxw",
+                "number_1": 17,
+                "number_2": 82,
+                "number_3": 10,
+                "number_4": 29,
+                "number_5": 55,
+                "createdAt": "2025-02-01T12:11:27.615Z"
+            },
+            {
+                "id": "679e637ff5c02f4a6372529a",
+                "dailyId": "679de559aebd22ec9c59abe9",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/ayiDH2MUqKI",
+                "number_1": 80,
+                "number_2": 67,
+                "number_3": 10,
+                "number_4": 26,
+                "number_5": 47,
+                "createdAt": "2025-02-01T18:10:06.719Z"
+            }
+        ],
+        "formatedDate": "Sábado, 1 de Fevereiro de 2025, 09:11:53"
+    },
+    {
+        "id": "679c93cb8fe5729bc04dbacf",
+        "date": "2025-01-31T09:11:38.495Z",
+        "results": [
+            {
+                "id": "679c93cb8fe5729bc04dbad0",
+                "dailyId": "679c93cb8fe5729bc04dbacf",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/j5hLd5V6lNQ",
+                "number_1": 11,
+                "number_2": 86,
+                "number_3": 57,
+                "number_4": 55,
+                "number_5": 32,
+                "createdAt": "2025-01-31T09:11:39.042Z"
+            },
+            {
+                "id": "679cbe6416b4f162b8a45058",
+                "dailyId": "679c93cb8fe5729bc04dbacf",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/hzVZjCil2vA",
+                "number_1": 13,
+                "number_2": 15,
+                "number_3": 50,
+                "number_4": 70,
+                "number_5": 47,
+                "createdAt": "2025-01-31T12:13:24.400Z"
+            },
+            {
+                "id": "679ce85e4df251d6879f14a0",
+                "dailyId": "679c93cb8fe5729bc04dbacf",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/iGjAUUeJ3bE",
+                "number_1": 76,
+                "number_2": 77,
+                "number_3": 43,
+                "number_4": 4,
+                "number_5": 88,
+                "createdAt": "2025-01-31T15:12:29.613Z"
+            },
+            {
+                "id": "679d12347ce2b5138697491e",
+                "dailyId": "679c93cb8fe5729bc04dbacf",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/wDwSxuW1TU4",
+                "number_1": 89,
+                "number_2": 49,
+                "number_3": 46,
+                "number_4": 33,
+                "number_5": 7,
+                "createdAt": "2025-01-31T18:11:00.389Z"
+            }
+        ],
+        "formatedDate": "Sexta-feira, 31 de Janeiro de 2025, 09:11:38"
+    },
+    {
+        "id": "679b42223508d038f86ab221",
+        "date": "2025-01-30T09:10:57.787Z",
+        "results": [
+            {
+                "id": "679b42223508d038f86ab222",
+                "dailyId": "679b42223508d038f86ab221",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/_m5nBH895jE",
+                "number_1": 56,
+                "number_2": 75,
+                "number_3": 10,
+                "number_4": 3,
+                "number_5": 24,
+                "createdAt": "2025-01-30T09:10:58.343Z"
+            },
+            {
+                "id": "679b95ebdfb5e4ec83df53c8",
+                "dailyId": "679b42223508d038f86ab221",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/CsRCO_-HGaQ",
+                "number_1": 46,
+                "number_2": 33,
+                "number_3": 63,
+                "number_4": 43,
+                "number_5": 11,
+                "createdAt": "2025-01-30T15:08:27.164Z"
+            },
+            {
+                "id": "679bc0356e1f57c7ba7cf438",
+                "dailyId": "679b42223508d038f86ab221",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/ggf3poXWe_c",
+                "number_1": 3,
+                "number_2": 7,
+                "number_3": 47,
+                "number_4": 2,
+                "number_5": 84,
+                "createdAt": "2025-01-30T18:08:53.013Z"
+            },
+            {
+                "id": "679b6c145a8a90ea2ece218d",
+                "dailyId": "679b42223508d038f86ab221",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/X968Hu7SA2Y",
+                "number_1": 68,
+                "number_2": 77,
+                "number_3": 53,
+                "number_4": 72,
+                "number_5": 76,
+                "createdAt": "2025-01-30T12:09:55.799Z"
+            }
+        ],
+        "formatedDate": "Quinta-feira, 30 de Janeiro de 2025, 09:10:57"
+    },
+    {
+        "id": "6799f45f86187b30996eca34",
+        "date": "2025-01-29T09:26:55.062Z",
+        "results": [
+            {
+                "id": "679a1af6eab018cde7de602a",
+                "dailyId": "6799f45f86187b30996eca34",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/SNPw7Mnppbw",
+                "number_1": 38,
+                "number_2": 72,
+                "number_3": 74,
+                "number_4": 89,
+                "number_5": 84,
+                "createdAt": "2025-01-29T12:11:34.278Z"
+            },
+            {
+                "id": "6799f45f86187b30996eca35",
+                "dailyId": "6799f45f86187b30996eca34",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/lTCBD9d-KYw",
+                "number_1": 77,
+                "number_2": 67,
+                "number_3": 37,
+                "number_4": 38,
+                "number_5": 20,
+                "createdAt": "2025-01-29T09:26:55.616Z"
+            },
+            {
+                "id": "679a70e9042ef92fb98a9a86",
+                "dailyId": "6799f45f86187b30996eca34",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/RT5c5jC6Cn0",
+                "number_1": 4,
+                "number_2": 11,
+                "number_3": 7,
+                "number_4": 35,
+                "number_5": 36,
+                "createdAt": "2025-01-29T18:18:16.911Z"
+            },
+            {
+                "id": "679a59b12cb18ce691ac434d",
+                "dailyId": "6799f45f86187b30996eca34",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/TcfgsJ6_aBw",
+                "number_1": 3,
+                "number_2": 73,
+                "number_3": 51,
+                "number_4": 53,
+                "number_5": 75,
+                "createdAt": "2025-01-29T16:39:13.376Z"
+            }
+        ],
+        "formatedDate": "Quarta-feira, 29 de Janeiro de 2025, 09:26:55"
+    },
+    {
+        "id": "67989e81d5eac59865ae6615",
+        "date": "2025-01-28T09:08:16.329Z",
+        "results": [
+            {
+                "id": "67989e81d5eac59865ae6616",
+                "dailyId": "67989e81d5eac59865ae6615",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/hp3XwbhPOuQ",
+                "number_1": 67,
+                "number_2": 24,
+                "number_3": 90,
+                "number_4": 9,
+                "number_5": 27,
+                "createdAt": "2025-01-28T09:08:16.914Z"
+            },
+            {
+                "id": "67991fef3213b507608d7970",
+                "dailyId": "67989e81d5eac59865ae6615",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/K0qrYWNtuNg",
+                "number_1": 55,
+                "number_2": 15,
+                "number_3": 24,
+                "number_4": 38,
+                "number_5": 82,
+                "createdAt": "2025-01-28T18:20:31.324Z"
+            },
+            {
+                "id": "6798ca09543b5edf848e8e73",
+                "dailyId": "67989e81d5eac59865ae6615",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/ATDxaU3M-5A",
+                "number_1": 29,
+                "number_2": 42,
+                "number_3": 9,
+                "number_4": 82,
+                "number_5": 58,
+                "createdAt": "2025-01-28T12:14:01.310Z"
+            },
+            {
+                "id": "6798f36afe8314fcfb62e704",
+                "dailyId": "67989e81d5eac59865ae6615",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/XI4i7AlyXKY",
+                "number_1": 13,
+                "number_2": 40,
+                "number_3": 51,
+                "number_4": 82,
+                "number_5": 23,
+                "createdAt": "2025-01-28T15:10:33.971Z"
+            }
+        ],
+        "formatedDate": "Terça-feira, 28 de Janeiro de 2025, 09:08:16"
+    },
+    {
+        "id": "67974ddeed11e4c65d3d363d",
+        "date": "2025-01-27T09:11:55.135Z",
+        "results": [
+            {
+                "id": "67977a4897287e6a7de5d00a",
+                "dailyId": "67974ddeed11e4c65d3d363d",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/CC1WdPdskHw",
+                "number_1": 54,
+                "number_2": 10,
+                "number_3": 49,
+                "number_4": 45,
+                "number_5": 25,
+                "createdAt": "2025-01-27T12:21:28.255Z"
+            },
+            {
+                "id": "6797cd0eab7822769edb51c1",
+                "dailyId": "67974ddeed11e4c65d3d363d",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/kjWTrJqNRPg",
+                "number_1": 72,
+                "number_2": 26,
+                "number_3": 34,
+                "number_4": 3,
+                "number_5": 22,
+                "createdAt": "2025-01-27T18:14:37.676Z"
+            },
+            {
+                "id": "67974ddeed11e4c65d3d363e",
+                "dailyId": "67974ddeed11e4c65d3d363d",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/GixLXAcXxSY",
+                "number_1": 74,
+                "number_2": 4,
+                "number_3": 22,
+                "number_4": 18,
+                "number_5": 42,
+                "createdAt": "2025-01-27T09:11:58.227Z"
+            },
+            {
+                "id": "6797a134c3f594af5442843d",
+                "dailyId": "67974ddeed11e4c65d3d363d",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/JQJhhJ44HWY",
+                "number_1": 90,
+                "number_2": 83,
+                "number_3": 18,
+                "number_4": 76,
+                "number_5": 2,
+                "createdAt": "2025-01-27T15:07:32.096Z"
+            }
+        ],
+        "formatedDate": "Segunda-feira, 27 de Janeiro de 2025, 09:11:55"
+    },
+    {
+        "id": "6794aa5b2726c1cd29b86823",
+        "date": "2025-01-25T09:09:46.510Z",
+        "results": [
+            {
+                "id": "6794d5b391f655393f6e8415",
+                "dailyId": "6794aa5b2726c1cd29b86823",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/bqHNQPDYTAI",
+                "number_1": 38,
+                "number_2": 16,
+                "number_3": 87,
+                "number_4": 77,
+                "number_5": 10,
+                "createdAt": "2025-01-25T12:14:42.633Z"
+            },
+            {
+                "id": "6794aa5b2726c1cd29b86824",
+                "dailyId": "6794aa5b2726c1cd29b86823",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/6CJ8qTlqMDA",
+                "number_1": 31,
+                "number_2": 79,
+                "number_3": 3,
+                "number_4": 8,
+                "number_5": 72,
+                "createdAt": "2025-01-25T09:09:47.048Z"
+            },
+            {
+                "id": "6794ff3feeba92e1edde20bb",
+                "dailyId": "6794aa5b2726c1cd29b86823",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/pjFq8cTWiEQ",
+                "number_1": 43,
+                "number_2": 71,
+                "number_3": 75,
+                "number_4": 5,
+                "number_5": 81,
+                "createdAt": "2025-01-25T15:11:58.887Z"
+            },
+            {
+                "id": "6795282a7b02fd949e6672ee",
+                "dailyId": "6794aa5b2726c1cd29b86823",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/smkv4bH7ooU",
+                "number_1": 34,
+                "number_2": 55,
+                "number_3": 65,
+                "number_4": 7,
+                "number_5": 4,
+                "createdAt": "2025-01-25T18:06:33.464Z"
+            }
+        ],
+        "formatedDate": "Sábado, 25 de Janeiro de 2025, 09:09:46"
+    },
+    {
+        "id": "6793593dc7b0dda31a5a93e6",
+        "date": "2025-01-24T09:11:24.626Z",
+        "results": [
+            {
+                "id": "6793842fc7b0dda31a5a93ea",
+                "dailyId": "6793593dc7b0dda31a5a93e6",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://youtube.com/embed/6MoSGWaffME",
+                "number_1": 22,
+                "number_2": 61,
+                "number_3": 84,
+                "number_4": 17,
+                "number_5": 35,
+                "createdAt": "2025-01-24T12:14:39.433Z"
+            },
+            {
+                "id": "6793adfdc7b0dda31a5a93ed",
+                "dailyId": "6793593dc7b0dda31a5a93e6",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://youtube.com/embed/2M0t8FchFeU",
+                "number_1": 8,
+                "number_2": 21,
+                "number_3": 45,
+                "number_4": 1,
+                "number_5": 72,
+                "createdAt": "2025-01-24T15:13:01.389Z"
+            },
+            {
+                "id": "6793593dc7b0dda31a5a93e7",
+                "dailyId": "6793593dc7b0dda31a5a93e6",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://youtube.com/embed/w-bevpcPoNQ",
+                "number_1": 58,
+                "number_2": 8,
+                "number_3": 31,
+                "number_4": 77,
+                "number_5": 65,
+                "createdAt": "2025-01-24T09:11:25.171Z"
+            },
+            {
+                "id": "6793d76112c7921fefa5ff2a",
+                "dailyId": "6793593dc7b0dda31a5a93e6",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://youtube.com/embed/5t3XH5tI638",
+                "number_1": 56,
+                "number_2": 64,
+                "number_3": 9,
+                "number_4": 52,
+                "number_5": 53,
+                "createdAt": "2025-01-24T18:09:37.384Z"
+            }
+        ],
+        "formatedDate": "Sexta-feira, 24 de Janeiro de 2025, 09:11:24"
+    },
+    {
+        "id": "67920c04a62994990d46c50d",
+        "date": "2025-01-23T09:29:40.264Z",
+        "results": [
+            {
+                "id": "67925d9dd2e18bf81a53337f",
+                "dailyId": "67920c04a62994990d46c50d",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://www.youtube.com/embed/4v_kVQOiXWw",
+                "number_1": 57,
+                "number_2": 75,
+                "number_3": 7,
+                "number_4": 65,
+                "number_5": 24,
+                "createdAt": "2025-01-23T15:17:48.726Z"
+            },
+            {
+                "id": "67928810fe0ac8861ec76048",
+                "dailyId": "67920c04a62994990d46c50d",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://www.youtube.com/embed/kl1CAJKbf1U",
+                "number_1": 66,
+                "number_2": 38,
+                "number_3": 78,
+                "number_4": 85,
+                "number_5": 55,
+                "createdAt": "2025-01-23T18:18:55.563Z"
+            },
+            {
+                "id": "67920c05a62994990d46c50e",
+                "dailyId": "67920c04a62994990d46c50d",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://www.youtube.com/embed/YFPFx-KjHvo",
+                "number_1": 23,
+                "number_2": 28,
+                "number_3": 86,
+                "number_4": 44,
+                "number_5": 4,
+                "createdAt": "2025-01-23T09:29:40.810Z"
+            },
+            {
+                "id": "6792321eb59ca7563997e514",
+                "dailyId": "67920c04a62994990d46c50d",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://www.youtube.com/embed/E3JNI2EPUdU",
+                "number_1": 40,
+                "number_2": 6,
+                "number_3": 44,
+                "number_4": 84,
+                "number_5": 80,
+                "createdAt": "2025-01-23T12:12:13.703Z"
+            }
+        ],
+        "formatedDate": "Quinta-feira, 23 de Janeiro de 2025, 09:29:40"
+    },
+    {
+        "id": "6790b7d7470e3f7a3f6259b9",
+        "date": "2025-01-22T09:18:15.206Z",
+        "results": [
+            {
+                "id": "6790b7d8470e3f7a3f6259ba",
+                "dailyId": "6790b7d7470e3f7a3f6259b9",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://www.youtube.com/embed/NzPj5hS6gk4",
+                "number_1": 68,
+                "number_2": 7,
+                "number_3": 86,
+                "number_4": 17,
+                "number_5": 47,
+                "createdAt": "2025-01-22T09:18:15.763Z"
+            },
+            {
+                "id": "6791370af82f997063465f11",
+                "dailyId": "6790b7d7470e3f7a3f6259b9",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://www.youtube.com/embed/N7O12TIXpzI",
+                "number_1": 2,
+                "number_2": 34,
+                "number_3": 6,
+                "number_4": 12,
+                "number_5": 82,
+                "createdAt": "2025-01-22T18:20:58.146Z"
+            },
+            {
+                "id": "67910cf13207ce9971578e7b",
+                "dailyId": "6790b7d7470e3f7a3f6259b9",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://www.youtube.com/embed/12xbh_AkWW4",
+                "number_1": 68,
+                "number_2": 77,
+                "number_3": 26,
+                "number_4": 7,
+                "number_5": 9,
+                "createdAt": "2025-01-22T15:21:21.211Z"
+            },
+            {
+                "id": "6790e1ca3207ce9971578e78",
+                "dailyId": "6790b7d7470e3f7a3f6259b9",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://www.youtube.com/embed/l_Rc2E6NkDI",
+                "number_1": 34,
+                "number_2": 73,
+                "number_3": 88,
+                "number_4": 82,
+                "number_5": 83,
+                "createdAt": "2025-01-22T12:17:14.243Z"
+            }
+        ],
+        "formatedDate": "Quarta-feira, 22 de Janeiro de 2025, 09:18:15"
+    },
+    {
+        "id": "678f6590a47e28507c4295ce",
+        "date": "2025-01-21T09:14:55.717Z",
+        "results": [
+            {
+                "id": "678f6590a47e28507c4295cf",
+                "dailyId": "678f6590a47e28507c4295ce",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://www.youtube.com/embed/Am_5qm6gkmc",
+                "number_1": 6,
+                "number_2": 55,
+                "number_3": 87,
+                "number_4": 9,
+                "number_5": 11,
+                "createdAt": "2025-01-21T09:14:56.271Z"
+            },
+            {
+                "id": "678fe64254cfd54b2f1cfb77",
+                "dailyId": "678f6590a47e28507c4295ce",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://www.youtube.com/embed/WSZ0kAyREgg",
+                "number_1": 32,
+                "number_2": 47,
+                "number_3": 54,
+                "number_4": 58,
+                "number_5": 79,
+                "createdAt": "2025-01-21T18:24:01.755Z"
+            },
+            {
+                "id": "678f903aa47e28507c4295d1",
+                "dailyId": "678f6590a47e28507c4295ce",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://www.youtube.com/embed/QiatM-Oxyk8",
+                "number_1": 73,
+                "number_2": 70,
+                "number_3": 45,
+                "number_4": 7,
+                "number_5": 14,
+                "createdAt": "2025-01-21T12:16:58.275Z"
+            },
+            {
+                "id": "678fba07dacd8b0684517935",
+                "dailyId": "678f6590a47e28507c4295ce",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://www.youtube.com/embed/ZbwqONnnD1U",
+                "number_1": 90,
+                "number_2": 54,
+                "number_3": 21,
+                "number_4": 47,
+                "number_5": 39,
+                "createdAt": "2025-01-21T15:15:18.598Z"
+            }
+        ],
+        "formatedDate": "Terça-feira, 21 de Janeiro de 2025, 09:14:55"
+    },
+    {
+        "id": "678e30d380444364b7303805",
+        "date": "2025-01-20T11:17:39.398Z",
+        "results": [
+            {
+                "id": "678e8fe294f134e1bb634a77",
+                "dailyId": "678e30d380444364b7303805",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://www.youtube.com/embed/JChUyB0erEc",
+                "number_1": 54,
+                "number_2": 90,
+                "number_3": 37,
+                "number_4": 7,
+                "number_5": 55,
+                "createdAt": "2025-01-20T18:03:14.060Z"
+            },
+            {
+                "id": "678e400493bf45049d401ef7",
+                "dailyId": "678e30d380444364b7303805",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://www.youtube.com/embed/fCoh3rLvxOA",
+                "number_1": 78,
+                "number_2": 8,
+                "number_3": 63,
+                "number_4": 16,
+                "number_5": 77,
+                "createdAt": "2025-01-20T12:22:27.565Z"
+            },
+            {
+                "id": "678e6a8c5a858bfefa0e2e25",
+                "dailyId": "678e30d380444364b7303805",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://www.youtube.com/embed/9EZ4e6Uw2_w",
+                "number_1": 32,
+                "number_2": 70,
+                "number_3": 4,
+                "number_4": 87,
+                "number_5": 42,
+                "createdAt": "2025-01-20T15:23:55.470Z"
+            },
+            {
+                "id": "678e30d380444364b7303806",
+                "dailyId": "678e30d380444364b7303805",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://www.youtube.com/embed/e12q-kd6Pn8",
+                "number_1": 33,
+                "number_2": 66,
+                "number_3": 52,
+                "number_4": 74,
+                "number_5": 37,
+                "createdAt": "2025-01-20T11:17:39.671Z"
+            }
+        ],
+        "formatedDate": "Segunda-feira, 20 de Janeiro de 2025, 11:17:39"
     }
 ]
