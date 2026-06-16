@@ -15,6 +15,19 @@
                 "number_4": 79,
                 "number_5": 38,
                 "createdAt": "2026-06-16T09:07:28.419Z"
+            },
+            {
+                "id": "6a313c2999755735befe289a",
+                "dailyId": "6a3112504e8ad00e64032e8c",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "",
+                "number_1": 1,
+                "number_2": 53,
+                "number_3": 13,
+                "number_4": 84,
+                "number_5": 31,
+                "createdAt": "2026-06-16T12:06:00.760Z"
             }
         ],
         "formatedDate": "Terça-feira, 16 de Junho de 2026, 09:07:28"
