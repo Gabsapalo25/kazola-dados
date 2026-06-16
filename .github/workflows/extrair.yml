@@ -2,7 +2,7 @@ name: Extrair Sorteios Kazola
 
 on:
   schedule:
-    # ── Horários em UTC (Angola = UTC+1, portanto -1h) ──────────────
+    # ── Horários em UTC (Angola = UTC+1) ──────────────────────────
     # Fezada 10:05, 10:10, 10:20 Angola = 09:05, 09:10, 09:20 UTC
     - cron: '5 9 * * *'
     - cron: '10 9 * * *'
@@ -20,10 +20,10 @@ on:
     - cron: '10 18 * * *'
     - cron: '20 18 * * *'
     # Extras
-    - cron: '0 23 * * *'   # 00:00 Angola
-    - cron: '0 5 * * *'    # 06:00 Angola
-    - cron: '0 8 * * *'    # 09:00 Angola
-    - cron: '0 19 * * *'   # 20:00 Angola
+    - cron: '0 23 * * *'
+    - cron: '0 5 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 19 * * *'
 
   workflow_dispatch:
 
@@ -37,6 +37,9 @@ jobs:
     steps:
       - name: Checkout repositório
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Configurar Python
         uses: actions/setup-python@v5
@@ -53,6 +56,15 @@ jobs:
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Actions — Kazola"
+          
+          # Sincronizar com o remoto
+          git pull --rebase origin main
+          
           git add historico_completo.json
-          git diff --staged --quiet || git commit -m "🔄 Auto-update $(TZ='Africa/Luanda' date '+%Y-%m-%d %H:%M') Angola"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          if git diff --staged --quiet; then
+            echo "⏳ Nenhuma alteração para commit"
+          else
+            git commit -m "🔄 Auto-update $(TZ='Africa/Luanda' date '+%Y-%m-%d %H:%M') Angola"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+            echo "✅ Push realizado com sucesso"
+          fi
