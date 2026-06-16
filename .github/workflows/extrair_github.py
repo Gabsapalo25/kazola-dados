@@ -13,25 +13,23 @@ GITHUB_REPO   = "kazola-dados"
 ANGOLA_TZ = timezone(timedelta(hours=1))
 
 HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/124.0.0.0 Safari/537.36"
-    ),
-    "Accept":             "application/json, text/plain, */*",
-    "Accept-Language":    "pt-AO,pt;q=0.9,en;q=0.8",
-    "Accept-Encoding":    "gzip, deflate, br",
-    "Connection":         "keep-alive",
-    "Cache-Control":      "no-cache",
-    "Pragma":             "no-cache",
-    "Sec-Fetch-Dest":     "empty",
-    "Sec-Fetch-Mode":     "cors",
-    "Sec-Fetch-Site":     "same-site",
-    "Sec-Ch-Ua":          '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
-    "Sec-Ch-Ua-Mobile":   "?0",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "pt-AO,pt;q=0.9,en;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-site",
+    "Sec-Ch-Ua": '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
+    "Sec-Ch-Ua-Mobile": "?0",
     "Sec-Ch-Ua-Platform": '"Windows"',
-    "Referer":            "https://www.lotarianacional.co.ao/",
-    "Origin":             "https://www.lotarianacional.co.ao",
+    "Referer": "https://www.lotarianacional.co.ao/",
+    "Origin": "https://www.lotarianacional.co.ao",
+    "DNT": "1",
+    "Upgrade-Insecure-Requests": "1",
 }
 
 
@@ -50,12 +48,11 @@ def purge_jsdelivr():
         print(f"⚠️ jsDelivr purge falhou: {e}")
 
 
-def fetch_pagina(pagina: int, tentativas: int = 3) -> list:
+def fetch_pagina(pagina: int, tentativas: int = 5) -> list:
     url = f"{API_URL}?page={pagina}&limit={LIMIT_POR_PAG}"
     for tentativa in range(1, tentativas + 1):
         try:
             print(f"   📄 Página {pagina} (tentativa {tentativa})...", flush=True)
-            # Pausa crescente entre tentativas
             if tentativa > 1:
                 time.sleep(tentativa * 3)
             r = requests.get(url, timeout=60, headers=HEADERS)
@@ -68,7 +65,7 @@ def fetch_pagina(pagina: int, tentativas: int = 3) -> list:
                 time.sleep(10)
             else:
                 print(f"   ⚠️ HTTP {r.status_code} — parando")
-                return None  # None = parar paginação
+                return None
         except Exception as e:
             print(f"   ❌ Erro: {e}")
             time.sleep(5)
@@ -100,7 +97,6 @@ def extrair():
         todos.extend(registos)
         print(f"   ✅ +{len(registos)} (total acumulado: {len(todos)})")
 
-        # Pausa entre páginas para não ser bloqueado
         time.sleep(2)
         pagina += 1
 
@@ -108,7 +104,6 @@ def extrair():
         print("❌ Nenhum registo obtido — saindo sem alterar o ficheiro")
         return False
 
-    # Remover duplicatas por data + sessão
     vistos = set()
     sem_dup = []
     for item in todos:
