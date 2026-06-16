@@ -25,14 +25,12 @@ on:
     - cron: '0 8 * * *'    # 09:00 Angola
     - cron: '0 19 * * *'   # 20:00 Angola
 
-  # Botão manual no GitHub — equivalente à opção 1 do PC
   workflow_dispatch:
 
 jobs:
   extrair:
     runs-on: ubuntu-latest
 
-    # ESSENCIAL — sem isto o git push falha com erro 403
     permissions:
       contents: write
 
@@ -57,4 +55,4 @@ jobs:
           git config user.name "GitHub Actions — Kazola"
           git add historico_completo.json
           git diff --staged --quiet || git commit -m "🔄 Auto-update $(TZ='Africa/Luanda' date '+%Y-%m-%d %H:%M') Angola"
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
