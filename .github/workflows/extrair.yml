@@ -3,23 +3,18 @@ name: Extrair Sorteios Kazola
 on:
   schedule:
     # ── Horários em UTC (Angola = UTC+1) ──────────────────────────
-    # Fezada 10:05, 10:10, 10:20 Angola = 09:05, 09:10, 09:20 UTC
     - cron: '5 9 * * *'
     - cron: '10 9 * * *'
     - cron: '20 9 * * *'
-    # Aqueceu 13:05, 13:10, 13:20 Angola = 12:05, 12:10, 12:20 UTC
     - cron: '5 12 * * *'
     - cron: '10 12 * * *'
     - cron: '20 12 * * *'
-    # Kazola 16:05, 16:10, 16:20 Angola = 15:05, 15:10, 15:20 UTC
     - cron: '5 15 * * *'
     - cron: '10 15 * * *'
     - cron: '20 15 * * *'
-    # Eskebra 19:05, 19:10, 19:20 Angola = 18:05, 18:10, 18:20 UTC
     - cron: '5 18 * * *'
     - cron: '10 18 * * *'
     - cron: '20 18 * * *'
-    # Extras
     - cron: '0 23 * * *'
     - cron: '0 5 * * *'
     - cron: '0 8 * * *'
@@ -57,7 +52,7 @@ jobs:
           git config user.email "action@github.com"
           git config user.name "GitHub Actions — Kazola"
           
-          # Sincronizar com o remoto
+          # 🔥 Sincronizar com o remoto ANTES de tentar push
           git pull --rebase origin main
           
           git add historico_completo.json
