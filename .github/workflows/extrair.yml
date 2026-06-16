@@ -1,5 +1,4 @@
 name: Extrair Sorteios Kazola
-
 on:
   schedule:
     # ── Horários em UTC (Angola = UTC+1) ──────────────────────────
@@ -19,16 +18,13 @@ on:
     - cron: '0 5 * * *'
     - cron: '0 8 * * *'
     - cron: '0 19 * * *'
-
   workflow_dispatch:
 
 jobs:
   extrair:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     steps:
       - name: Checkout repositório
         uses: actions/checkout@v4
@@ -42,24 +38,12 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar dependências
-        run: pip install requests
+        run: |
+          pip install requests playwright
+          playwright install chromium
+          playwright install-deps chromium
 
       - name: Extrair sorteios da API
         run: python .github/workflows/extrair_github.py
-
-      - name: Commit e push se houver alterações
-        run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Actions — Kazola"
-          
-          # 🔥 Sincronizar com o remoto ANTES de tentar push
-          git pull --rebase origin main
-          
-          git add historico_completo.json
-          if git diff --staged --quiet; then
-            echo "⏳ Nenhuma alteração para commit"
-          else
-            git commit -m "🔄 Auto-update $(TZ='Africa/Luanda' date '+%Y-%m-%d %H:%M') Angola"
-            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-            echo "✅ Push realizado com sucesso"
-          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
