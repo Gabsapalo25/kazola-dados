@@ -28,6 +28,32 @@
                 "number_4": 14,
                 "number_5": 11,
                 "createdAt": "2026-06-22T12:06:09.713Z"
+            },
+            {
+                "id": "6a394f628fbde6933b4f7cc8",
+                "dailyId": "6a38faf18fbde6933b4f7cc3",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/mJ0MnXodr-s",
+                "number_1": 82,
+                "number_2": 45,
+                "number_3": 6,
+                "number_4": 27,
+                "number_5": 10,
+                "createdAt": "2026-06-22T15:06:10.407Z"
+            },
+            {
+                "id": "6a397a1b4e8ad00e64032ea5",
+                "dailyId": "6a38faf18fbde6933b4f7cc3",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/fMW4Nqa3-dk",
+                "number_1": 27,
+                "number_2": 45,
+                "number_3": 80,
+                "number_4": 53,
+                "number_5": 72,
+                "createdAt": "2026-06-22T18:08:27.450Z"
             }
         ],
         "formatedDate": "Segunda-feira, 22 de Junho de 2026, 09:05:52"
