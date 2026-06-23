@@ -1,5 +1,38 @@
 [
     {
+        "id": "6a3a4e0270088893de590781",
+        "date": "2026-06-23T09:12:34.186Z",
+        "results": [
+            {
+                "id": "6a3a4e0270088893de590782",
+                "dailyId": "6a3a4e0270088893de590781",
+                "name": "fezada",
+                "hour": "10H00",
+                "videoURL": "https://www.youtube.com/embed/QkNSaQrcOQs",
+                "number_1": 75,
+                "number_2": 76,
+                "number_3": 13,
+                "number_4": 28,
+                "number_5": 71,
+                "createdAt": "2026-06-23T09:12:34.488Z"
+            },
+            {
+                "id": "6a3a76878fbde6933b4f7ccb",
+                "dailyId": "6a3a4e0270088893de590781",
+                "name": "aqueceu",
+                "hour": "13H00",
+                "videoURL": "https://www.youtube.com/embed/8LeB5cKPTtQ",
+                "number_1": 52,
+                "number_2": 15,
+                "number_3": 56,
+                "number_4": 78,
+                "number_5": 66,
+                "createdAt": "2026-06-23T12:05:27.346Z"
+            }
+        ],
+        "formatedDate": "Terça-feira, 23 de Junho de 2026, 09:12:34"
+    },
+    {
         "id": "6a38faf18fbde6933b4f7cc3",
         "date": "2026-06-22T09:05:52.857Z",
         "results": [
