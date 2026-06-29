@@ -41,6 +41,19 @@
                 "number_4": 74,
                 "number_5": 66,
                 "createdAt": "2026-06-29T15:08:21.295Z"
+            },
+            {
+                "id": "6a42b3ce8fbde6933b4f7cd9",
+                "dailyId": "6a42354c4e8ad00e64032eb9",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/Yargp9AGRTo",
+                "number_1": 66,
+                "number_2": 37,
+                "number_3": 9,
+                "number_4": 27,
+                "number_5": 16,
+                "createdAt": "2026-06-29T18:05:02.381Z"
             }
         ],
         "formatedDate": "Segunda-feira, 29 de Junho de 2026, 09:05:16"
