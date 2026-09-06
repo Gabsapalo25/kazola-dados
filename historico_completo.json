@@ -28,6 +28,19 @@
                 "number_4": 26,
                 "number_5": 73,
                 "createdAt": "2026-09-06T12:04:40.652Z"
+            },
+            {
+                "id": "6a9d81216d7043394f853f6c",
+                "dailyId": "6a9d2d6266e457a310caffeb",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/jI-PbsrrmN8",
+                "number_1": 61,
+                "number_2": 22,
+                "number_3": 59,
+                "number_4": 70,
+                "number_5": 35,
+                "createdAt": "2026-09-06T15:05:04.805Z"
             }
         ],
         "formatedDate": "Domingo, 6 de Setembro de 2026, 09:07:46"
