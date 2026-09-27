@@ -28,6 +28,32 @@
                 "number_4": 8,
                 "number_5": 6,
                 "createdAt": "2026-09-27T12:05:27.804Z"
+            },
+            {
+                "id": "6ab930d9efc09129811ab81e",
+                "dailyId": "6ab8dc6befc09129811ab81a",
+                "name": "kazola",
+                "hour": "16H00",
+                "videoURL": "https://www.youtube.com/embed/DMj__OkERaw",
+                "number_1": 79,
+                "number_2": 32,
+                "number_3": 66,
+                "number_4": 62,
+                "number_5": 47,
+                "createdAt": "2026-09-27T15:06:00.730Z"
+            },
+            {
+                "id": "6ab95b4eefc09129811ab821",
+                "dailyId": "6ab8dc6befc09129811ab81a",
+                "name": "eskebra",
+                "hour": "19H00",
+                "videoURL": "https://www.youtube.com/embed/vpgeSTGUfAg",
+                "number_1": 67,
+                "number_2": 31,
+                "number_3": 44,
+                "number_4": 61,
+                "number_5": 36,
+                "createdAt": "2026-09-27T18:07:09.770Z"
             }
         ],
         "formatedDate": "Domingo, 27 de Setembro de 2026, 09:05:47"
