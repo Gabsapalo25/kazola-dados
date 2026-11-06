@@ -45,6 +45,20 @@
                 "number_4": 47,
                 "number_5": 34,
                 "createdAt": "2026-11-06T15:06:30.246Z"
+            },
+            {
+                "id": "6aee176132ce41b9bbcc0554",
+                "dailyId": "6aed98b9b3fac967f3db410d",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://www.youtube.com/embed/bQXZQJ63LIA",
+                "emissionId": "6aee186bdc314c028083d430",
+                "number_1": 69,
+                "number_2": 85,
+                "number_3": 65,
+                "number_4": 33,
+                "number_5": 78,
+                "createdAt": "2026-11-06T18:07:29.209Z"
             }
         ]
     },
