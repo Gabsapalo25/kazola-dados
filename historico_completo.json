@@ -31,6 +31,34 @@
                 "number_4": 80,
                 "number_5": 85,
                 "createdAt": "2026-11-09T12:05:22.962Z"
+            },
+            {
+                "id": "6af1e158b31a2e7ed8ee9613",
+                "dailyId": "6af18dcc8f58cf78ca2b286e",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://www.youtube.com/embed/nJfsqRDv8wM",
+                "emissionId": "6af1e2c37652971474bcc2b4",
+                "number_1": 24,
+                "number_2": 5,
+                "number_3": 27,
+                "number_4": 82,
+                "number_5": 80,
+                "createdAt": "2026-11-09T15:06:00.133Z"
+            },
+            {
+                "id": "6af20be3ce30bbd7e704257d",
+                "dailyId": "6af18dcc8f58cf78ca2b286e",
+                "name": "eskebra",
+                "hour": "19h00",
+                "videoURL": "https://www.youtube.com/embed/KoNvSh-vUuI",
+                "emissionId": "6af20d0fe5c175b096d7d997",
+                "number_1": 34,
+                "number_2": 69,
+                "number_3": 87,
+                "number_4": 10,
+                "number_5": 79,
+                "createdAt": "2026-11-09T18:07:31.170Z"
             }
         ]
     },
