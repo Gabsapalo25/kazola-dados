@@ -1,5 +1,40 @@
 [
     {
+        "id": "6af2de9cb0a28393b152f994",
+        "date": "2026-11-10T00:00:00.000Z",
+        "formatedDate": "Terça-feira, 10 de Novembro de 2026",
+        "results": [
+            {
+                "id": "6af2de9c127590ee967135bc",
+                "dailyId": "6af2de9cb0a28393b152f994",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://www.youtube.com/embed/PkTU1HkthZ8",
+                "emissionId": "6af2e087ded29f8fd4beb1df",
+                "number_1": 78,
+                "number_2": 55,
+                "number_3": 13,
+                "number_4": 89,
+                "number_5": 23,
+                "createdAt": "2026-11-10T09:06:36.669Z"
+            },
+            {
+                "id": "6af308e3bc4059006388aaee",
+                "dailyId": "6af2de9cb0a28393b152f994",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://www.youtube.com/embed/KdeGuTBCDMw",
+                "emissionId": "6af309ffb494802612befdca",
+                "number_1": 66,
+                "number_2": 72,
+                "number_3": 19,
+                "number_4": 27,
+                "number_5": 14,
+                "createdAt": "2026-11-10T12:06:59.787Z"
+            }
+        ]
+    },
+    {
         "id": "6af18dcc8f58cf78ca2b286e",
         "date": "2026-11-09T00:00:00.000Z",
         "formatedDate": "Segunda-feira, 9 de Novembro de 2026",
