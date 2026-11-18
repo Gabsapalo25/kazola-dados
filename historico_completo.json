@@ -1,5 +1,40 @@
 [
     {
+        "id": "6afd6ad1126dd348b6225a17",
+        "date": "2026-11-18T00:00:00.000Z",
+        "formatedDate": "Quarta-feira, 18 de Novembro de 2026",
+        "results": [
+            {
+                "id": "6afd6ad15f71648b0f5980b2",
+                "dailyId": "6afd6ad1126dd348b6225a17",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://www.youtube.com/embed/FMaS--S90JM",
+                "emissionId": "6afd6badc52f3ba94f18420a",
+                "number_1": 55,
+                "number_2": 66,
+                "number_3": 73,
+                "number_4": 16,
+                "number_5": 70,
+                "createdAt": "2026-11-18T09:07:29.395Z"
+            },
+            {
+                "id": "6afd9483e3c45f05d93ef94c",
+                "dailyId": "6afd6ad1126dd348b6225a17",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://www.youtube.com/embed/Tn2W4sza6kQ",
+                "emissionId": "6afd961a806d2401d9319bfb",
+                "number_1": 61,
+                "number_2": 54,
+                "number_3": 52,
+                "number_4": 76,
+                "number_5": 7,
+                "createdAt": "2026-11-18T12:05:23.602Z"
+            }
+        ]
+    },
+    {
         "id": "6afc19c831866ec371e33a3f",
         "date": "2026-11-17T00:00:00.000Z",
         "formatedDate": "Terça-feira, 17 de Novembro de 2026",
