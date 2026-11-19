@@ -31,6 +31,20 @@
                 "number_4": 67,
                 "number_5": 73,
                 "createdAt": "2026-11-19T12:08:52.739Z"
+            },
+            {
+                "id": "6aff105c46f9d6522b722756",
+                "dailyId": "6afebbf2f1db2191cb11afb8",
+                "name": "kazola",
+                "hour": "16h00",
+                "videoURL": "https://www.youtube.com/embed/HAXmXyw1QDo",
+                "emissionId": "6aff118e8cf5ac19a840b7f3",
+                "number_1": 63,
+                "number_2": 69,
+                "number_3": 55,
+                "number_4": 47,
+                "number_5": 53,
+                "createdAt": "2026-11-19T15:06:04.025Z"
             }
         ]
     },
