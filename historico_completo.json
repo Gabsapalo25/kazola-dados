@@ -1,5 +1,40 @@
 [
     {
+        "id": "6afebbf2f1db2191cb11afb8",
+        "date": "2026-11-19T00:00:00.000Z",
+        "formatedDate": "Quinta-feira, 19 de Novembro de 2026",
+        "results": [
+            {
+                "id": "6afebbf25bdb8af2aef539a5",
+                "dailyId": "6afebbf2f1db2191cb11afb8",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://www.youtube.com/embed/arGrhMkGGNY",
+                "emissionId": "6afebe430ab46d47aca9275a",
+                "number_1": 72,
+                "number_2": 55,
+                "number_3": 83,
+                "number_4": 59,
+                "number_5": 1,
+                "createdAt": "2026-11-19T09:05:54.187Z"
+            },
+            {
+                "id": "6afee6d48d616e8102add120",
+                "dailyId": "6afebbf2f1db2191cb11afb8",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://www.youtube.com/embed/rW0ZO0wQ8Wo",
+                "emissionId": "6afee811b5906ada55950f01",
+                "number_1": 6,
+                "number_2": 23,
+                "number_3": 62,
+                "number_4": 67,
+                "number_5": 73,
+                "createdAt": "2026-11-19T12:08:52.739Z"
+            }
+        ]
+    },
+    {
         "id": "6afd6ad1126dd348b6225a17",
         "date": "2026-11-18T00:00:00.000Z",
         "formatedDate": "Quarta-feira, 18 de Novembro de 2026",
