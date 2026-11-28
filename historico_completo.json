@@ -1,5 +1,40 @@
 [
     {
+        "id": "6b0a9a35019346089081aa90",
+        "date": "2026-11-28T00:00:00.000Z",
+        "formatedDate": "Sábado, 28 de Novembro de 2026",
+        "results": [
+            {
+                "id": "6b0a9a35b62db3e7421d4c3b",
+                "dailyId": "6b0a9a35019346089081aa90",
+                "name": "fezada",
+                "hour": "10h00",
+                "videoURL": "https://www.youtube.com/embed/ekRk5-tDI3k",
+                "emissionId": "6b0a9b19bcbd721f1335aea6",
+                "number_1": 78,
+                "number_2": 25,
+                "number_3": 71,
+                "number_4": 66,
+                "number_5": 89,
+                "createdAt": "2026-11-28T09:09:09.606Z"
+            },
+            {
+                "id": "6b0ac3b090db7652b26d5918",
+                "dailyId": "6b0a9a35019346089081aa90",
+                "name": "aqueceu",
+                "hour": "13h00",
+                "videoURL": "https://www.youtube.com/embed/9qwiCh0DMEU",
+                "emissionId": "6b0ac538041f1b0f69443e6f",
+                "number_1": 86,
+                "number_2": 65,
+                "number_3": 2,
+                "number_4": 78,
+                "number_5": 7,
+                "createdAt": "2026-11-28T12:06:08.167Z"
+            }
+        ]
+    },
+    {
         "id": "6b0948095011248d3d92f7c2",
         "date": "2026-11-27T00:00:00.000Z",
         "formatedDate": "Sexta-feira, 27 de Novembro de 2026",
